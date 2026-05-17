@@ -1,0 +1,25 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Large/generated data and results
+results/**
+!results/README_results.md
+
+# Raw input data are normally too large or restricted for public GitHub
+# Keep this line if raw data cannot be redistributed.
+data/000_input_data/**
+!data/000_input_data/.gitkeep
+!data/README_data.md
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.zip

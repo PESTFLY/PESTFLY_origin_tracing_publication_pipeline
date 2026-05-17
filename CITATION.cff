@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "PESTFLY origin-tracing pipeline for Bactrocera dorsalis"
+message: "If you use this workflow, please cite the associated Molecular Ecology Resources manuscript and this repository release."
+type: software
+authors:
+  - family-names: "REPLACE_WITH_AUTHOR_SURNAME"
+    given-names: "REPLACE_WITH_AUTHOR_GIVEN_NAMES"
+version: "1.0.0"
+date-released: "2026-05-17"
+repository-code: "REPLACE_WITH_GITHUB_URL"

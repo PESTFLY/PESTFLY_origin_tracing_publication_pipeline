@@ -1,0 +1,8 @@
+Choose and add the appropriate license before public release.
+
+Common options:
+- MIT License for permissive software reuse.
+- GPL-3.0 if derivative software must remain open.
+- CC-BY-4.0 for documentation/data-like materials, but not usually for code.
+
+Do not publish without confirming the license with all co-authors/institutions.
