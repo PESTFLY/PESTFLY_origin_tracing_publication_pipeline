@@ -1,9 +1,0 @@
-public_step	public_folder	legacy_script_uploaded	legacy_default_main_output	purpose
-00	00_convert_phylip_to_fasta	step0_convert_phylip_to_fasta.R	results/00_fasta	Convert OMA/read2tree PHYLIP ortholog alignments to FASTA
-01	01_metadata_snapshot_and_ortholog_qc	step1_2_metadata_snapshot_orthologqc.R	results/01_qc	Metadata cleaning and ortholog QC snapshot
-02	02_snp_panel_discovery_and_ranking	step3_snp_extraction_ranking.R	results/02_snp_panels	Diagnostic SNP extraction and FST/ranking panel construction
-03	03_mutual_information_snp_diagnostics	step3b_snp_mutual_information_ranking.R	results/02_snp_panels	Mutual-information SNP diagnostics added to Step 02 resources
-04	04_hierarchical_origin_assignment	step4_multilevel_assignment.R	results/04_origin_assignment	Hierarchical macroregion-first origin assignment
-05	05_full_panel_loo_validation	step4b_loo_validation.R	results/05_loo_validation	Full-panel leave-one-out validation
-06	06_random_forest_corroboration	step5_random_forest_origin_tracing.R	results/06_rf_corroboration	Random Forest corroboration
-07	07_authority_facing_report	step7_reporting_authorities.R	results/07_authority_report	Final authority-facing report
