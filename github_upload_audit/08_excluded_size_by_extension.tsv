@@ -1,7 +1,0 @@
-group	n_files	size_bytes	size_mb	size_gb	human_size
-fasta	11351	7535206678	7186.133	7.018	7.018 GB
-tsv	1	3348894	3.194	0.003	3.19 MB
-rds	2	168834	0.161	0	164.9 KB
-[no_extension]	58	90957	0.087	0	88.8 KB
-sample	14	25827	0.025	0	25.2 KB
-gitkeep	2	0	0	0	0 B
