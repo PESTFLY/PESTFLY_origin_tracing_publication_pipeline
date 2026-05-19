@@ -92,7 +92,7 @@
 #   results/06_rf_corroboration/RF_all_panels_predictions_queries.tsv
 #   results/05_loo_validation/step4b_loo_summary_all_panels.tsv
 #   results/06_rf_corroboration/RF_all_panels_cv_summary.tsv
-#   results/09_minimal_panel_benchmarking/Tables/step6b_empirical_minK_by_target.tsv
+#   Optional internal diagnostic-development outputs; not used by the public manuscript pipeline unless --step6b_dir is explicitly provided.
 #
 # Optional user-provided origin-country table:
 #
@@ -209,8 +209,8 @@ option_list <- list(
   make_option(
     "--step6b_dir",
     type = "character",
-    default = "results/09_minimal_panel_benchmarking",
-    help = "Step 6b output directory [default %default]"
+    default = "",
+    help = "Optional internal diagnostic-development Step 09 directory; empty skips reduced-panel sheets [default empty]"
   ),
   make_option(
     "--intercept_origin_file",
@@ -243,7 +243,9 @@ opt <- parse_args(OptionParser(option_list = option_list))
 opt$step4_final <- resolve_path(opt$step4_final)
 opt$step5_dir <- resolve_path(opt$step5_dir)
 opt$step4b_dir <- resolve_path(opt$step4b_dir)
-opt$step6b_dir <- resolve_path(opt$step6b_dir)
+if (nzchar(opt$step6b_dir)) {
+  opt$step6b_dir <- resolve_path(opt$step6b_dir)
+}
 opt$out_dir <- resolve_path(opt$out_dir)
 
 if (nzchar(opt$intercept_origin_file)) {
@@ -1262,8 +1264,10 @@ if (isTRUE(include_validation_sheets)) {
   step5_cv_summary <- safe_read(file.path(opt$step5_dir, "RF_all_panels_cv_summary.tsv"))
   step5_cv_perclass <- safe_read(file.path(opt$step5_dir, "RF_all_panels_cv_perclass.tsv"))
   
-  step6b_minK <- safe_read(file.path(opt$step6b_dir, "Tables", "step6b_empirical_minK_by_target.tsv"))
-  step6b_recommended <- safe_read(file.path(opt$step6b_dir, "Tables", "step6b_recommended_panels_index.tsv"))
+  if (nzchar(opt$step6b_dir)) {
+    step6b_minK <- safe_read(file.path(opt$step6b_dir, "Tables", "step6b_empirical_minK_by_target.tsv"))
+    step6b_recommended <- safe_read(file.path(opt$step6b_dir, "Tables", "step6b_recommended_panels_index.tsv"))
+  }
 }
 
 # =============================================================================

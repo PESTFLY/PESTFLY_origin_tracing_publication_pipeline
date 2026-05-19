@@ -1,0 +1,10 @@
+panel_id	true_group	n	accuracy	mean_top_prob	high_or_moderate_frac
+P1_macroregion_africa_vs_asia	Africa	525	1	0.910779047619048	0.902857142857143
+P1_macroregion_africa_vs_asia	Asia	1075	1	0.957397209302325	0.987906976744186
+P2_subregion_within_africa	C_Africa	25	0.76	0.45508	0
+P2_subregion_within_africa	E_Africa	335	1	0.697423880597015	0.0447761194029851
+P2_subregion_within_africa	S_Africa	50	0	0.51186	0
+P2_subregion_within_africa	W_Africa	115	0.252173913043478	0.466773913043478	0
+P3_subregion_within_asia	E_Asia	400	0.985	0.70004	0.035
+P3_subregion_within_asia	SE_Asia	450	0.933333333333333	0.718151111111111	0.164444444444444
+P3_subregion_within_asia	S_Asia	225	0.973333333333333	0.541173333333333	0

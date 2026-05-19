@@ -1,0 +1,5 @@
+panel_id	final_reason	N
+P3_subregion_within_asia	ok	200
+P3_subregion_within_asia	low_global_K_agreement	12
+P3_subregion_within_asia	too_few_usable_K	2
+P3_subregion_within_asia	low_posterior	1

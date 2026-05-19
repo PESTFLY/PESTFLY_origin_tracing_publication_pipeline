@@ -1,0 +1,3 @@
+panel_id	true_group	n	accuracy	mean_top_prob	high_or_moderate_frac
+P1_macroregion_africa_vs_asia	Africa	525	1	0.910779047619048	0.902857142857143
+P1_macroregion_africa_vs_asia	Asia	1075	1	0.957397209302325	0.987906976744186

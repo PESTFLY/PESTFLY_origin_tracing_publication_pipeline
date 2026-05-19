@@ -1,0 +1,2 @@
+panel_id	group_col	n	accuracy	mean_top_prob	median_top_prob	mean_gap	high_or_moderate_frac
+P2_subregion_within_africa	subregion	525	0.72952380952381	0.617687619047619	0.605	0.386878095238095	0.0285714285714286

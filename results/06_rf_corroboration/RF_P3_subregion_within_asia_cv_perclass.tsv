@@ -1,0 +1,4 @@
+panel_id	true_group	n	accuracy	mean_top_prob	high_or_moderate_frac
+P3_subregion_within_asia	E_Asia	400	0.985	0.70004	0.035
+P3_subregion_within_asia	SE_Asia	450	0.933333333333333	0.718151111111111	0.164444444444444
+P3_subregion_within_asia	S_Asia	225	0.973333333333333	0.541173333333333	0

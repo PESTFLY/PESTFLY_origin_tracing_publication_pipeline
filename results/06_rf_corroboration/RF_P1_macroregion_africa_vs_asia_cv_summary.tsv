@@ -1,0 +1,2 @@
+panel_id	group_col	n	accuracy	mean_top_prob	median_top_prob	mean_gap	high_or_moderate_frac
+P1_macroregion_africa_vs_asia	macroregion_3	1600	1	0.942100625	0.957	0.88420125	0.96

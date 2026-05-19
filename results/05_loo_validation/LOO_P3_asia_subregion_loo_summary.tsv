@@ -1,0 +1,2 @@
+panel_id	group_col	n	attempted	correct	accuracy_all	accuracy_attempted	high_n	moderate_n	uncertain_n	high_frac	high_or_moderate_frac	uncertainty_rate	mean_maxK_posterior	mean_maxK_gap	mean_agreement	mean_tail_agreement	too_few_usable_K_rate	too_few_snps_raw_rate
+P3_subregion_within_asia	subregion	215	215	198	0.92093023255814	0.92093023255814	200	0	15	0.930232558139535	0.930232558139535	0.0697674418604651	0.99827444874281	0.99654889748562	0.968992248062015	0.990697674418605	0.00930232558139535	0.626453488372093

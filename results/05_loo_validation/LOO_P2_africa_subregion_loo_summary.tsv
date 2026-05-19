@@ -1,0 +1,2 @@
+panel_id	group_col	n	attempted	correct	accuracy_all	accuracy_attempted	high_n	moderate_n	uncertain_n	high_frac	high_or_moderate_frac	uncertainty_rate	mean_maxK_posterior	mean_maxK_gap	mean_agreement	mean_tail_agreement	too_few_usable_K_rate	too_few_snps_raw_rate
+P2_subregion_within_africa	subregion	105	105	102	0.971428571428571	0.971428571428571	97	0	8	0.923809523809524	0.923809523809524	0.0761904761904762	0.999888725992405	0.999777451984809	0.974603174603175	0.993650793650794	0	0.625

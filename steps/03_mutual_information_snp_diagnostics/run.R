@@ -1,13 +1,13 @@
 #!/usr/bin/env Rscript
 
 # =============================================================================
-# PESTFLY — Step 3b: Mutual-information SNP ranking diagnostics
+# PESTFLY — Step 03: Mutual-information SNP diagnostics
 # =============================================================================
 #
 # Purpose
 # -------
 # Compute mutual information (MI) between SNP genotype and the target assignment
-# class for each Step 3 panel.
+# class for each Step 02 panel.
 #
 # This step is diagnostic/supportive:
 #   - it does not replace the Step 3 FST-style ranking;
@@ -39,13 +39,18 @@
 # Outputs
 # -------
 #   results/02_snp_panels/panels/<panel_id>/snp_mi.tsv
-#   results/02_snp_panels/panels_mi_index.tsv
-#   results/02_snp_panels/panels_mi_index.rds
-#   results/02_snp_panels/step3b_run_info.rds
+#     Per-panel MI table written next to the Step 02 panel resources for
+#     compatibility with downstream diagnostic-development work.
+#
+#   results/03_mi_diagnostics/panels_mi_index.tsv
+#   results/03_mi_diagnostics/panels_mi_index.rds
+#   results/03_mi_diagnostics/step03_run_info.rds
+#     Main Step 03 outputs. This makes the public pipeline one-to-one:
+#     steps/03_* writes results/03_*.
 #
 # Run
 # ---
-#   Rscript steps/step3b_mutual_information_ranking/run.R
+#   Rscript steps/03_mutual_information_snp_diagnostics/run.R
 #
 # =============================================================================
 
@@ -102,7 +107,13 @@ option_list <- list(
     "--step3_dir",
     type = "character",
     default = "results/02_snp_panels",
-    help = "Step 3 output directory containing panels_index.tsv [default %default]"
+    help = "Step 02 output directory containing panels_index.tsv [default %default]"
+  ),
+  make_option(
+    "--out_dir",
+    type = "character",
+    default = "results/03_mi_diagnostics",
+    help = "Step 03 output directory for MI index and run info [default %default]"
   ),
   make_option(
     "--min_class_n",
@@ -128,12 +139,15 @@ opt <- parse_args(OptionParser(option_list = option_list))
 
 opt$meta_path <- resolve_path(opt$meta_path)
 opt$step3_dir <- resolve_path(opt$step3_dir)
+opt$out_dir <- resolve_path(opt$out_dir)
+dir.create(opt$out_dir, recursive = TRUE, showWarnings = FALSE)
 
 panels_index_path <- file.path(opt$step3_dir, "panels_index.tsv")
 
 message("Repo root:     ", repo_root)
 message("Metadata:      ", opt$meta_path)
-message("Step 3 dir:    ", opt$step3_dir)
+message("Step 02 dir:   ", opt$step3_dir)
+message("Output dir:   ", opt$out_dir)
 message("Panels index:  ", panels_index_path)
 message("Min class n:   ", opt$min_class_n)
 
@@ -456,15 +470,16 @@ for (i in seq_len(nrow(panels_index))) {
 
 mi_index_dt <- rbindlist(mi_index, fill = TRUE)
 
-out_index <- file.path(opt$step3_dir, "panels_mi_index.tsv")
+out_index <- file.path(opt$out_dir, "panels_mi_index.tsv")
 fwrite(mi_index_dt, out_index, sep = "\t")
-saveRDS(mi_index_dt, file.path(opt$step3_dir, "panels_mi_index.rds"))
+saveRDS(mi_index_dt, file.path(opt$out_dir, "panels_mi_index.rds"))
 
 run_info <- list(
-  step = "step3b_mutual_information_ranking",
+  step = "step03_mutual_information_snp_diagnostics",
   repo_root = repo_root,
   metadata = opt$meta_path,
   step3_dir = opt$step3_dir,
+  out_dir = opt$out_dir,
   min_class_n = opt$min_class_n,
   min_snps_keep = opt$min_snps_keep,
   include_p4_if_present = opt$include_p4_if_present,
@@ -473,7 +488,7 @@ run_info <- list(
   session_info = sessionInfo()
 )
 
-saveRDS(run_info, file.path(opt$step3_dir, "step3b_run_info.rds"))
+saveRDS(run_info, file.path(opt$out_dir, "step03_run_info.rds"))
 
 message("\nDone.")
 message("MI index: ", out_index)

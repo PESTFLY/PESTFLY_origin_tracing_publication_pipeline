@@ -1,0 +1,4 @@
+panel_id	panel_dir	group_col	panel_type	n_reference_samples	n_reference_groups	n_snps	reference_value	reference_note	status
+P1_macroregion_africa_vs_asia	C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_origin_tracing_MolEcolRes_publication_pipeline/results/02_snp_panels/panels/P1_macroregion_africa_vs_asia	macroregion_3	binary	320	2	11086	TRUE	auto_TRUE_n=320	OK
+P2_subregion_within_africa	C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_origin_tracing_MolEcolRes_publication_pipeline/results/02_snp_panels/panels/P2_subregion_within_africa	subregion	multiclass	105	4	11001	TRUE	auto_TRUE_n=105	OK
+P3_subregion_within_asia	C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_origin_tracing_MolEcolRes_publication_pipeline/results/02_snp_panels/panels/P3_subregion_within_asia	subregion	multiclass	215	3	11086	TRUE	auto_TRUE_n=215	OK

@@ -1,0 +1,16 @@
+PESTFLY Step 1-2 label consistency report
+==========================================
+
+PHYLIP files checked: 11351
+Files with errors: 0
+Allowed extra labels: Bdors, Blati
+
+Unique labels not in metadata, including allowed extras: 2
+Unique labels not in metadata, unexpected only: 0
+Metadata samples never seen in checked PHYLIP files: 0
+
+Interpretation:
+- Allowed extra labels are expected labels present in alignments but absent from metadata.
+- In this dataset, Bdors and Blati are expected OMA/read2tree outgroups.
+- Unexpected labels not in metadata should be resolved before Step 3.
+- Metadata samples never seen in PHYLIP should also be resolved before Step 3.

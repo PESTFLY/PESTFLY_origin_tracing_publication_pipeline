@@ -1,0 +1,2 @@
+panel_id	group_col	n	accuracy	mean_top_prob	median_top_prob	mean_gap	high_or_moderate_frac
+P3_subregion_within_asia	subregion	1075	0.96093023255814	0.67437023255814	0.702	0.486246511627907	0.0818604651162791

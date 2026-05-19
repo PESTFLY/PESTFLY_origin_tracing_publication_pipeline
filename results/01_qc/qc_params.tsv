@@ -1,0 +1,17 @@
+parameter	value
+align_dir	C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_origin_tracing_MolEcolRes_publication_pipeline/results/00_fasta
+file_glob	OG*.fasta
+metadata_xlsx	C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_origin_tracing_MolEcolRes_publication_pipeline/data/000_input_data/metadata.xlsx
+metadata_sheet	Selection
+phy_dir	C:/Users/virgilio/Documents/GitHub/PESTFLY/PESTFLY_origin_tracing_MolEcolRes_publication_pipeline/data/000_input_data/phy
+phy_glob	OG*.fa
+min_len	300
+min_nonmissing_frac	0.5
+min_pop_occupancy	0.7
+min_pop_occupancy_frac_pops	0.8
+max_mean_ambig	0.05
+exclude_regex	^$
+allowed_extra_labels	Bdors,Blati
+cores	19
+debug_n	0
+label_check	all

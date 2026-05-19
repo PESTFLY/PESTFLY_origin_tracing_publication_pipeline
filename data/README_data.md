@@ -1,19 +1,12 @@
 # Data directory
 
-Expected input structure:
+Expected inputs:
 
 ```text
-data/000_input_data/
-├── metadata.xlsx
-└── phy/
-    └── *.phy
+data/000_input_data/metadata.xlsx
+data/000_input_data/phy/
 ```
 
-The workflow expects:
+`metadata.xlsx` is the public sample metadata table used by the manuscript workflow.
 
-- a metadata spreadsheet at `data/000_input_data/metadata.xlsx`;
-- OMA/read2tree PHYLIP ortholog alignments under `data/000_input_data/phy/`.
-
-Large raw data files are intentionally not included in the public code package unless explicitly permitted for redistribution.
-
-The Step 00 script writes converted FASTA files to `results/00_fasta/` by default. Subsequent steps use these validated default paths.
+The `phy/` folder contains raw OMA/read2tree PHYLIP ortholog alignments. This folder is ignored by Git by default because it can be large. If raw alignments are not committed to GitHub, deposit them in Zenodo or another data repository and document the DOI or download instructions here.

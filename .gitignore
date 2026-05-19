@@ -1,25 +1,56 @@
+# =============================================================================
 # R / RStudio
+# =============================================================================
+
 .Rhistory
 .RData
 .Ruserdata
 .Rproj.user/
+*.Rproj
 
-# Operating system files
+# =============================================================================
+# Operating-system files
+# =============================================================================
+
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Large/generated data and results
-results/**
-!results/README_results.md
+# =============================================================================
+# Temporary / backup files
+# =============================================================================
 
-# Raw input data are normally too large or restricted for public GitHub
-# Keep this line if raw data cannot be redistributed.
-data/000_input_data/**
-!data/000_input_data/.gitkeep
-!data/README_data.md
-
-# Logs and temporary files
-*.log
 *.tmp
 *.bak
-*.zip
+*.old
+~$*
+github_upload_audit
+
+# =============================================================================
+# Large raw/generated sequence files
+# =============================================================================
+
+data/**/phy/
+data/**/phy/**
+results/00_fasta/
+results/00_fasta/**
+
+*.phy
+*.phylip
+
+# =============================================================================
+# Large generated QC matrix
+# =============================================================================
+
+results/01_qc/sample_missingness.tsv
+
+# Optional: allow the smaller binary version if useful
+!results/01_qc/sample_missingness.rds
+
+# =============================================================================
+# Keep public metadata
+# =============================================================================
+
+!data/
+!data/000_input_data/
+!data/000_input_data/metadata.xlsx

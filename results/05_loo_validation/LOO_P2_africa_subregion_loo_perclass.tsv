@@ -1,0 +1,5 @@
+panel_id	true_group	n	attempted	correct	accuracy_all	accuracy_attempted	high_or_moderate_frac	uncertainty_rate
+P2_subregion_within_africa	C_Africa	5	5	5	1	1	1	0
+P2_subregion_within_africa	E_Africa	67	67	64	0.955223880597015	0.955223880597015	0.91044776119403	0.0895522388059701
+P2_subregion_within_africa	S_Africa	10	10	10	1	1	1	0
+P2_subregion_within_africa	W_Africa	23	23	23	1	1	0.91304347826087	0.0869565217391304

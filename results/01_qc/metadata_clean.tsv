@@ -1,0 +1,353 @@
+sample_id	is_reference	macroregion	population	country	site	collection	sample_accession	organism	collection_date	geo_loc_name	macroregion_3	subregion
+ComAnj1	TRUE	Comoros	Anjouan	Anjouan	Mutsamudu	Pablo_IO	B1_L1_301X01	Bactrocera dorsalis		Anjouan: Mutsamudu	Africa	E_Africa
+ComAnj2	TRUE	Comoros	Anjouan	Anjouan	Mutsamudu	Pablo_IO	B2_L4_302X02	Bactrocera dorsalis		Anjouan: Mutsamudu	Africa	E_Africa
+ComAnj3	TRUE	Comoros	Anjouan	Anjouan	Mutsamudu	Pablo_IO	B3_L1_303X03	Bactrocera dorsalis		Anjouan: Mutsamudu	Africa	E_Africa
+ComAnj4	TRUE	Comoros	Anjouan	Anjouan	Mutsamudu	Pablo_IO	B4_L1_304X04	Bactrocera dorsalis		Anjouan: Mutsamudu	Africa	E_Africa
+ComAnj5	TRUE	Comoros	Anjouan	Anjouan	Mutsamudu	Pablo_IO	B5_L4_305X05	Bactrocera dorsalis		Anjouan: Mutsamudu	Africa	E_Africa
+ComGra1	TRUE	Comoros	Grande_Comore	Grande_Comore	Mandzissani	Pablo_IO	B16_L4_318X18	Bactrocera dorsalis		Grande Comore: Mandzissani	Africa	E_Africa
+ComGra2	TRUE	Comoros	Grande_Comore	Grande_Comore	Mandzissani	Pablo_IO	B17_L1_335X35	Bactrocera dorsalis		Grande Comore: Mandzissani	Africa	E_Africa
+ComGra3	TRUE	Comoros	Grande_Comore	Grande_Comore	Mandzissani	Pablo_IO	B18_L4_336X36	Bactrocera dorsalis		Grande Comore: Mandzissani	Africa	E_Africa
+ComGra6	TRUE	Comoros	Grande_Comore	Grande_Comore	Mandzissani	Pablo_IO	B19_L1_337X37merged	Bactrocera dorsalis		Grande Comore: Mandzissani	Africa	E_Africa
+ComGra5	TRUE	Comoros	Grande_Comore	Grande_Comore	Mandzissani	Pablo_IO	B20_L1_338X38	Bactrocera dorsalis		Grande Comore: Mandzissani	Africa	E_Africa
+ComMoh1	TRUE	Comoros	Moheli	Moheli	Fomboni	Pablo_IO	B31_L1_348X48	Bactrocera dorsalis		Moheli: Fomboni	Africa	E_Africa
+ComMoh2	TRUE	Comoros	Moheli	Moheli	Fomboni	Pablo_IO	B32_L4_349X49	Bactrocera dorsalis		Moheli: Fomboni	Africa	E_Africa
+ComMoh3	TRUE	Comoros	Moheli	Moheli	Fomboni	Pablo_IO	B33_L4_350X50	Bactrocera dorsalis		Moheli: Fomboni	Africa	E_Africa
+ComMoh4	TRUE	Comoros	Moheli	Moheli	Fomboni	Pablo_IO	B34_L2_117A17	Bactrocera dorsalis		Moheli: Fomboni	Africa	E_Africa
+ComMoh5	TRUE	Comoros	Moheli	Moheli	Fomboni	Pablo_IO	B35_L2_118A18	Bactrocera dorsalis		Moheli: Fomboni	Africa	E_Africa
+MadAmb1	TRUE	Madagascar	Madagascar	Madagascar	Ambatobe	Pablo_IO	B46_L4_339X39	Bactrocera dorsalis		Madagascar: Ambatobe	Africa	E_Africa
+MadAmb2	TRUE	Madagascar	Madagascar	Madagascar	Ambatobe	Pablo_IO	B47_L4_321X21	Bactrocera dorsalis		Madagascar: Ambatobe	Africa	E_Africa
+MadAmb3	TRUE	Madagascar	Madagascar	Madagascar	Ambatobe	Pablo_IO	B48_L4_322X22	Bactrocera dorsalis		Madagascar: Ambatobe	Africa	E_Africa
+MadAmb4	TRUE	Madagascar	Madagascar	Madagascar	Ambatobe	Pablo_IO	B49_L4_323X23	Bactrocera dorsalis		Madagascar: Ambatobe	Africa	E_Africa
+MadAmb5	TRUE	Madagascar	Madagascar	Madagascar	Ambatobe	Pablo_IO	B50_L4_324X24	Bactrocera dorsalis		Madagascar: Ambatobe	Africa	E_Africa
+MadMah1	TRUE	Madagascar	Madagascar	Madagascar	Mahaboboka	Pablo_IO	B61_L4_334X34	Bactrocera dorsalis		Madagascar: Mahaboboka	Africa	E_Africa
+MadMah2	TRUE	Madagascar	Madagascar	Madagascar	Mahaboboka	Pablo_IO	B62_L4_341X41	Bactrocera dorsalis		Madagascar: Mahaboboka	Africa	E_Africa
+MadMah3	TRUE	Madagascar	Madagascar	Madagascar	Mahaboboka	Pablo_IO	B63_L4_342X42	Bactrocera dorsalis		Madagascar: Mahaboboka	Africa	E_Africa
+MadMah4	TRUE	Madagascar	Madagascar	Madagascar	Mahaboboka	Pablo_IO	B64_L4_343X43	Bactrocera dorsalis		Madagascar: Mahaboboka	Africa	E_Africa
+MadMah5	TRUE	Madagascar	Madagascar	Madagascar	Mahaboboka	Pablo_IO	B65_L4_344X44	Bactrocera dorsalis		Madagascar: Mahaboboka	Africa	E_Africa
+MadMan1	TRUE	Madagascar	Madagascar	Madagascar	Mangatsa	Pablo_IO	B69_L4_348X48	Bactrocera dorsalis		Madagascar: Mangatsa	Africa	E_Africa
+MadMan2	TRUE	Madagascar	Madagascar	Madagascar	Mangatsa	Pablo_IO	B70_L4_349X49	Bactrocera dorsalis		Madagascar: Mangatsa	Africa	E_Africa
+MadMan3	TRUE	Madagascar	Madagascar	Madagascar	Mangatsa	Pablo_IO	B71_L4_350X50	Bactrocera dorsalis		Madagascar: Mangatsa	Africa	E_Africa
+MadMan4	TRUE	Madagascar	Madagascar	Madagascar	Mangatsa	Pablo_IO	B72_L4_351X51	Bactrocera dorsalis		Madagascar: Mangatsa	Africa	E_Africa
+MadMan5	TRUE	Madagascar	Madagascar	Madagascar	Mangatsa	Pablo_IO	B73_L2_102A02	Bactrocera dorsalis		Madagascar: Mangatsa	Africa	E_Africa
+MauLaS1	TRUE	Mascarene	Mauritius	Mauritius	LaSource	Pablo_IO	B84_L2_133A33	Bactrocera dorsalis		Mauritius: LaSource	Asia	SE_Asia
+MauLaS2	TRUE	Mascarene	Mauritius	Mauritius	LaSource	Pablo_IO	B85_L2_134A34	Bactrocera dorsalis		Mauritius: LaSource	Asia	SE_Asia
+MauLaS3	TRUE	Mascarene	Mauritius	Mauritius	LaSource	Pablo_IO	B86_L2_135A35	Bactrocera dorsalis		Mauritius: LaSource	Asia	SE_Asia
+MauLaS4	TRUE	Mascarene	Mauritius	Mauritius	LaSource	Pablo_IO	B87_L2_105A05	Bactrocera dorsalis		Mauritius: LaSource	Asia	SE_Asia
+MauLaS5	TRUE	Mascarene	Mauritius	Mauritius	LaSource	Pablo_IO	B88_L2_106A06	Bactrocera dorsalis		Mauritius: LaSource	Asia	SE_Asia
+MayDem1	TRUE	Comoros	Mayotte	Mayotte	Dembéni	Pablo_IO	B99_L2_146A46	Bactrocera dorsalis		Mayotte: Dembéni	Africa	E_Africa
+MayDem2	TRUE	Comoros	Mayotte	Mayotte	Dembéni	Pablo_IO	B100_L2_147A47	Bactrocera dorsalis		Mayotte: Dembéni	Africa	E_Africa
+MayDem3	TRUE	Comoros	Mayotte	Mayotte	Dembéni	Pablo_IO	B101_L2_148A48	Bactrocera dorsalis		Mayotte: Dembéni	Africa	E_Africa
+MayDem4	TRUE	Comoros	Mayotte	Mayotte	Dembéni	Pablo_IO	B102_L2_149A49	Bactrocera dorsalis		Mayotte: Dembéni	Africa	E_Africa
+MayDem5	TRUE	Comoros	Mayotte	Mayotte	Dembéni	Pablo_IO	B103_L2_150A50	Bactrocera dorsalis		Mayotte: Dembéni	Africa	E_Africa
+MaySad1	TRUE	Comoros	Mayotte	Mayotte	Sada	Pablo_IO	B109_L2_156A56	Bactrocera dorsalis		Mayotte: Sada	Africa	E_Africa
+MaySad2	TRUE	Comoros	Mayotte	Mayotte	Sada	Pablo_IO	B110_L2_157A57	Bactrocera dorsalis		Mayotte: Sada	Africa	E_Africa
+MaySad3	TRUE	Comoros	Mayotte	Mayotte	Sada	Pablo_IO	B111_L2_158A58	Bactrocera dorsalis		Mayotte: Sada	Africa	E_Africa
+MaySad4	TRUE	Comoros	Mayotte	Mayotte	Sada	Pablo_IO	B112_L3_159A59	Bactrocera dorsalis		Mayotte: Sada	Africa	E_Africa
+MaySad5	TRUE	Comoros	Mayotte	Mayotte	Sada	Pablo_IO	B113_L2_160A60	Bactrocera dorsalis		Mayotte: Sada	Africa	E_Africa
+ReuBas1	TRUE	Mascarene	Reunion	Reunion	BasTerHaut	Pablo_IO	B119_L4_107A07	Bactrocera dorsalis	2019	Reunion: BasTerHaut	Asia	SE_Asia
+ReuBas2	TRUE	Mascarene	Reunion	Reunion	BasTerHaut	Pablo_IO	B120_L2_166A66	Bactrocera dorsalis	2019	Reunion: BasTerHaut	Asia	SE_Asia
+ReuBas3	TRUE	Mascarene	Reunion	Reunion	BasTerHaut	Pablo_IO	B121_L2_167A67	Bactrocera dorsalis	2019	Reunion: BasTerHaut	Asia	SE_Asia
+ReuBas4	TRUE	Mascarene	Reunion	Reunion	BasTerHaut	Pablo_IO	B122_L2_168A68	Bactrocera dorsalis	2019	Reunion: BasTerHaut	Asia	SE_Asia
+ReuBas5	TRUE	Mascarene	Reunion	Reunion	BasTerHaut	Pablo_IO	B123_L3_169A69	Bactrocera dorsalis	2019	Reunion: BasTerHaut	Asia	SE_Asia
+ReuSte1	TRUE	Mascarene	Reunion	Reunion	SteRose	Pablo_IO	B134_L3_339X39	Bactrocera dorsalis	2019	Reunion: SteRose	Asia	SE_Asia
+ReuSte2	TRUE	Mascarene	Reunion	Reunion	SteRose	Pablo_IO	B135_L3_108A08	Bactrocera dorsalis	2019	Reunion: SteRose	Asia	SE_Asia
+ReuSte3	TRUE	Mascarene	Reunion	Reunion	SteRose	Pablo_IO	B136_L3_109A09	Bactrocera dorsalis	2019	Reunion: SteRose	Asia	SE_Asia
+ReuSte4	TRUE	Mascarene	Reunion	Reunion	SteRose	Pablo_IO	B137_L3_172A72	Bactrocera dorsalis	2019	Reunion: SteRose	Asia	SE_Asia
+ReuSte5	TRUE	Mascarene	Reunion	Reunion	SteRose	Pablo_IO	B138_L3_173A73	Bactrocera dorsalis	2019	Reunion: SteRose	Asia	SE_Asia
+BDKG01	TRUE	Asia	Bangladesh	Bangladesh	Khagrachari	Yue_Global	CNS0528609	Bactrocera dorsalis	2018-02	Bangladesh: Khagrachari	Asia	S_Asia
+BDKG02	TRUE	Asia	Bangladesh	Bangladesh	Khagrachari	Yue_Global	CNS0528610	Bactrocera dorsalis	2018-02	Bangladesh: Khagrachari	Asia	S_Asia
+BDKG03	TRUE	Asia	Bangladesh	Bangladesh	Khagrachari	Yue_Global	CNS0528611	Bactrocera dorsalis	2018-02	Bangladesh: Khagrachari	Asia	S_Asia
+BDKG04	TRUE	Asia	Bangladesh	Bangladesh	Khagrachari	Yue_Global	CNS0528612	Bactrocera dorsalis	2018-02	Bangladesh: Khagrachari	Asia	S_Asia
+BDKG05	TRUE	Asia	Bangladesh	Bangladesh	Khagrachari	Yue_Global	CNS0528613	Bactrocera dorsalis	2018-02	Bangladesh: Khagrachari	Asia	S_Asia
+BIBJ01	TRUE	Africa	Burundi	Burundi	Bujumbu	Yue_Global	CNS0528712	Bactrocera dorsalis	2010	Burundi: Bujumbu	Africa	E_Africa
+BIBJ02	TRUE	Africa	Burundi	Burundi	Bujumbu	Yue_Global	CNS0528713	Bactrocera dorsalis	2010	Burundi: Bujumbu	Africa	E_Africa
+BIBJ03	TRUE	Africa	Burundi	Burundi	Bujumbu	Yue_Global	CNS0528714	Bactrocera dorsalis	2010	Burundi: Bujumbu	Africa	E_Africa
+BIBJ04	TRUE	Africa	Burundi	Burundi	Bujumbu	Yue_Global	CNS0528715	Bactrocera dorsalis	2010	Burundi: Bujumbu	Africa	E_Africa
+BIBJ05	TRUE	Africa	Burundi	Burundi	Bujumbu	Yue_Global	CNS0528716	Bactrocera dorsalis	2010	Burundi: Bujumbu	Africa	E_Africa
+CDKB01	TRUE	Africa	Congo	Congo	Kabare	Yue_Global	CNS0528702	Bactrocera dorsalis	2014-02	Congo: Kabare	Africa	C_Africa
+CDKB02	TRUE	Africa	Congo	Congo	Kabare	Yue_Global	CNS0528703	Bactrocera dorsalis	2014-02	Congo: Kabare	Africa	C_Africa
+CDKB03	TRUE	Africa	Congo	Congo	Kabare	Yue_Global	CNS0528704	Bactrocera dorsalis	2014-02	Congo: Kabare	Africa	C_Africa
+CDKB04	TRUE	Africa	Congo	Congo	Kabare	Yue_Global	CNS0528705	Bactrocera dorsalis	2014-02	Congo: Kabare	Africa	C_Africa
+CDKB05	TRUE	Africa	Congo	Congo	Kabare	Yue_Global	CNS0528706	Bactrocera dorsalis	2014-02	Congo: Kabare	Africa	C_Africa
+CIBD01	TRUE	Africa	Ivory_Coast	Ivory_Coast	Boundiali	Yue_Global	CNS0528659	Bactrocera dorsalis	2017-06	Ivory Coast: Boundiali	Africa	W_Africa
+CIBD02	TRUE	Africa	Ivory_Coast	Ivory_Coast	Boundiali	Yue_Global	CNS0528660	Bactrocera dorsalis	2017-06	Ivory Coast: Boundiali	Africa	W_Africa
+CIBD03	TRUE	Africa	Ivory_Coast	Ivory_Coast	Boundiali	Yue_Global	CNS0528661	Bactrocera dorsalis	2017-06	Ivory Coast: Boundiali	Africa	W_Africa
+CIBD04	TRUE	Africa	Ivory_Coast	Ivory_Coast	Boundiali	Yue_Global	CNS0528662	Bactrocera dorsalis	2017-06	Ivory Coast: Boundiali	Africa	W_Africa
+CIBD05	TRUE	Africa	Ivory_Coast	Ivory_Coast	Boundiali	Yue_Global	CNS0528663	Bactrocera dorsalis	2017-06	Ivory Coast: Boundiali	Africa	W_Africa
+ETMS01	TRUE	Africa	Ethiopia	Ethiopia	Mieso	Yue_Global	CNS0528672	Bactrocera dorsalis	2013	Ethiopia: Mieso	Africa	E_Africa
+ETMS02	TRUE	Africa	Ethiopia	Ethiopia	Mieso	Yue_Global	CNS0528673	Bactrocera dorsalis	2013	Ethiopia: Mieso	Africa	E_Africa
+ETMS03	TRUE	Africa	Ethiopia	Ethiopia	Mieso	Yue_Global	CNS0528674	Bactrocera dorsalis	2013	Ethiopia: Mieso	Africa	E_Africa
+ETMS04	TRUE	Africa	Ethiopia	Ethiopia	Mieso	Yue_Global	CNS0528675	Bactrocera dorsalis	2013	Ethiopia: Mieso	Africa	E_Africa
+ETMS05	TRUE	Africa	Ethiopia	Ethiopia	Mieso	Yue_Global	CNS0528676	Bactrocera dorsalis	2013	Ethiopia: Mieso	Africa	E_Africa
+FJZZ01	TRUE	Asia	China	China	Fujian	Yue_Global	CNS0528385	Bactrocera dorsalis	43210	China: Fujian	Asia	E_Asia
+FJZZ02	TRUE	Asia	China	China	Fujian	Yue_Global	CNS0528386	Bactrocera dorsalis	43210	China: Fujian	Asia	E_Asia
+FJZZ03	TRUE	Asia	China	China	Fujian	Yue_Global	CNS0528387	Bactrocera dorsalis	43210	China: Fujian	Asia	E_Asia
+FJZZ04	TRUE	Asia	China	China	Fujian	Yue_Global	CNS0528388	Bactrocera dorsalis	43210	China: Fujian	Asia	E_Asia
+FJZZ05	TRUE	Asia	China	China	Fujian	Yue_Global	CNS0528389	Bactrocera dorsalis	43210	China: Fujian	Asia	E_Asia
+GDGZ01	TRUE	Asia	China	China	Guangdong	Yue_Global	CNS0528395	Bactrocera dorsalis	43163	China: Guangdong	Asia	E_Asia
+GDGZ02	TRUE	Asia	China	China	Guangdong	Yue_Global	CNS0528396	Bactrocera dorsalis	43163	China: Guangdong	Asia	E_Asia
+GDGZ03	TRUE	Asia	China	China	Guangdong	Yue_Global	CNS0528397	Bactrocera dorsalis	43163	China: Guangdong	Asia	E_Asia
+GDGZ04	TRUE	Asia	China	China	Guangdong	Yue_Global	CNS0528398	Bactrocera dorsalis	43163	China: Guangdong	Asia	E_Asia
+GDGZ05	TRUE	Asia	China	China	Guangdong	Yue_Global	CNS0528399	Bactrocera dorsalis	43163	China: Guangdong	Asia	E_Asia
+GHND01	TRUE	Africa	Ghana	Ghana	Nord	Yue_Global	CNS0528649	Bactrocera dorsalis	2017-06	Ghana: Nord	Africa	W_Africa
+GHND02	TRUE	Africa	Ghana	Ghana	Nord	Yue_Global	CNS0528650	Bactrocera dorsalis	2017-06	Ghana: Nord	Africa	W_Africa
+GHND03	TRUE	Africa	Ghana	Ghana	Nord	Yue_Global	CNS0528651	Bactrocera dorsalis	2017-06	Ghana: Nord	Africa	W_Africa
+GHND04	TRUE	Africa	Ghana	Ghana	Nord	Yue_Global	CNS0528652	Bactrocera dorsalis	2017-06	Ghana: Nord	Africa	W_Africa
+GHND05	TRUE	Africa	Ghana	Ghana	Nord	Yue_Global	CNS0528653	Bactrocera dorsalis	2017-06	Ghana: Nord	Africa	W_Africa
+GXNN01	TRUE	Asia	China	China	Guangxi	Yue_Global	CNS0528375	Bactrocera dorsalis	42944	China: Guangxi	Asia	E_Asia
+GXNN02	TRUE	Asia	China	China	Guangxi	Yue_Global	CNS0528376	Bactrocera dorsalis	42944	China: Guangxi	Asia	E_Asia
+GXNN03	TRUE	Asia	China	China	Guangxi	Yue_Global	CNS0528377	Bactrocera dorsalis	42944	China: Guangxi	Asia	E_Asia
+GXNN04	TRUE	Asia	China	China	Guangxi	Yue_Global	CNS0528378	Bactrocera dorsalis	42944	China: Guangxi	Asia	E_Asia
+GXNN05	TRUE	Asia	China	China	Guangxi	Yue_Global	CNS0528379	Bactrocera dorsalis	42944	China: Guangxi	Asia	E_Asia
+GZDY01	TRUE	Asia	China	China	Guizhou	Yue_Global	CNS0528345	Bactrocera dorsalis	43353	China: Guizhou	Asia	E_Asia
+GZDY02	TRUE	Asia	China	China	Guizhou	Yue_Global	CNS0528346	Bactrocera dorsalis	43353	China: Guizhou	Asia	E_Asia
+GZDY03	TRUE	Asia	China	China	Guizhou	Yue_Global	CNS0528347	Bactrocera dorsalis	43353	China: Guizhou	Asia	E_Asia
+GZDY04	TRUE	Asia	China	China	Guizhou	Yue_Global	CNS0528348	Bactrocera dorsalis	43353	China: Guizhou	Asia	E_Asia
+GZDY05	TRUE	Asia	China	China	Guizhou	Yue_Global	CNS0528349	Bactrocera dorsalis	43353	China: Guizhou	Asia	E_Asia
+HBWH01	TRUE	Asia	China	China	Hubei	Yue_Global	CNS0528295	Bactrocera dorsalis	43348	China: Hubei	Asia	E_Asia
+HBWH02	TRUE	Asia	China	China	Hubei	Yue_Global	CNS0528296	Bactrocera dorsalis	43348	China: Hubei	Asia	E_Asia
+HBWH03	TRUE	Asia	China	China	Hubei	Yue_Global	CNS0528297	Bactrocera dorsalis	43348	China: Hubei	Asia	E_Asia
+HBWH04	TRUE	Asia	China	China	Hubei	Yue_Global	CNS0528298	Bactrocera dorsalis	43348	China: Hubei	Asia	E_Asia
+HBWH05	TRUE	Asia	China	China	Hubei	Yue_Global	CNS0528299	Bactrocera dorsalis	43348	China: Hubei	Asia	E_Asia
+HNDZ01	TRUE	Asia	China	China	Hainan	Yue_Global	CNS0528405	Bactrocera dorsalis	42962	China: Hainan	Asia	E_Asia
+HNDZ02	TRUE	Asia	China	China	Hainan	Yue_Global	CNS0528406	Bactrocera dorsalis	42962	China: Hainan	Asia	E_Asia
+HNDZ03	TRUE	Asia	China	China	Hainan	Yue_Global	CNS0528407	Bactrocera dorsalis	42962	China: Hainan	Asia	E_Asia
+HNDZ04	TRUE	Asia	China	China	Hainan	Yue_Global	CNS0528408	Bactrocera dorsalis	42962	China: Hainan	Asia	E_Asia
+HNDZ05	TRUE	Asia	China	China	Hainan	Yue_Global	CNS0528409	Bactrocera dorsalis	42962	China: Hainan	Asia	E_Asia
+HNLY01	TRUE	Asia	China	China	Henan	Yue_Global	CNS0528275	Bactrocera dorsalis	43299	China: Henan	Asia	E_Asia
+HNLY02	TRUE	Asia	China	China	Henan	Yue_Global	CNS0528276	Bactrocera dorsalis	43299	China: Henan	Asia	E_Asia
+HNLY03	TRUE	Asia	China	China	Henan	Yue_Global	CNS0528277	Bactrocera dorsalis	43299	China: Henan	Asia	E_Asia
+HNLY04	TRUE	Asia	China	China	Henan	Yue_Global	CNS0528278	Bactrocera dorsalis	43299	China: Henan	Asia	E_Asia
+HNLY05	TRUE	Asia	China	China	Henan	Yue_Global	CNS0528279	Bactrocera dorsalis	43299	China: Henan	Asia	E_Asia
+HNSY01	TRUE	Asia	China	China	Hunan	Yue_Global	CNS0528315	Bactrocera dorsalis	43378	China: Hunan	Asia	E_Asia
+HNSY02	TRUE	Asia	China	China	Hunan	Yue_Global	CNS0528316	Bactrocera dorsalis	43378	China: Hunan	Asia	E_Asia
+HNSY03	TRUE	Asia	China	China	Hunan	Yue_Global	CNS0528317	Bactrocera dorsalis	43378	China: Hunan	Asia	E_Asia
+HNSY04	TRUE	Asia	China	China	Hunan	Yue_Global	CNS0528318	Bactrocera dorsalis	43378	China: Hunan	Asia	E_Asia
+HNSY05	TRUE	Asia	China	China	Hunan	Yue_Global	CNS0528319	Bactrocera dorsalis	43378	China: Hunan	Asia	E_Asia
+IDJI01	TRUE	Asia	Indonesia	Indonesia	Java	Yue_Global	CNS0528525	Bactrocera dorsalis	43106	Indonesia: Java	Asia	SE_Asia
+IDJI02	TRUE	Asia	Indonesia	Indonesia	Java	Yue_Global	CNS0528526	Bactrocera dorsalis	43106	Indonesia: Java	Asia	SE_Asia
+IDJI03	TRUE	Asia	Indonesia	Indonesia	Java	Yue_Global	CNS0528527	Bactrocera dorsalis	43106	Indonesia: Java	Asia	SE_Asia
+IDJI04	TRUE	Asia	Indonesia	Indonesia	Java	Yue_Global	CNS0528528	Bactrocera dorsalis	43106	Indonesia: Java	Asia	SE_Asia
+IDJI05	TRUE	Asia	Indonesia	Indonesia	Java	Yue_Global	CNS0528529	Bactrocera dorsalis	43106	Indonesia: Java	Asia	SE_Asia
+INAS01	TRUE	Asia	India	India	Assam	Yue_Global	CNS0528565	Bactrocera dorsalis	2017	India: Assam	Asia	S_Asia
+INAS02	TRUE	Asia	India	India	Assam	Yue_Global	CNS0528566	Bactrocera dorsalis	2017	India: Assam	Asia	S_Asia
+INAS03	TRUE	Asia	India	India	Assam	Yue_Global	CNS0528567	Bactrocera dorsalis	2017	India: Assam	Asia	S_Asia
+INAS04	TRUE	Asia	India	India	Assam	Yue_Global	CNS0528568	Bactrocera dorsalis	2017	India: Assam	Asia	S_Asia
+INAS05	TRUE	Asia	India	India	Assam	Yue_Global	CNS0528569	Bactrocera dorsalis	2017	India: Assam	Asia	S_Asia
+INBH01	TRUE	Asia	India	India	Bihar	Yue_Global	CNS0528575	Bactrocera dorsalis	2014	India: Bihar	Asia	S_Asia
+INBH02	TRUE	Asia	India	India	Bihar	Yue_Global	CNS0528576	Bactrocera dorsalis	2014	India: Bihar	Asia	S_Asia
+INBH03	TRUE	Asia	India	India	Bihar	Yue_Global	CNS0528577	Bactrocera dorsalis	2014	India: Bihar	Asia	S_Asia
+INBH04	TRUE	Asia	India	India	Bihar	Yue_Global	CNS0528578	Bactrocera dorsalis	2014	India: Bihar	Asia	S_Asia
+INBH05	TRUE	Asia	India	India	Bihar	Yue_Global	CNS0528579	Bactrocera dorsalis	2014	India: Bihar	Asia	S_Asia
+INPJ01	TRUE	Asia	India	India	Punjab	Yue_Global	CNS0528555	Bactrocera dorsalis	43700	India: Punjab	Asia	S_Asia
+INPJ02	TRUE	Asia	India	India	Punjab	Yue_Global	CNS0528556	Bactrocera dorsalis	43700	India: Punjab	Asia	S_Asia
+INPJ03	TRUE	Asia	India	India	Punjab	Yue_Global	CNS0528557	Bactrocera dorsalis	43700	India: Punjab	Asia	S_Asia
+INPJ04	TRUE	Asia	India	India	Punjab	Yue_Global	CNS0528558	Bactrocera dorsalis	43700	India: Punjab	Asia	S_Asia
+INPJ05	TRUE	Asia	India	India	Punjab	Yue_Global	CNS0528559	Bactrocera dorsalis	43700	India: Punjab	Asia	S_Asia
+INTG01	TRUE	Asia	India	India	Telangana	Yue_Global	CNS0528583	Bactrocera dorsalis	2017	India: Telangana	Asia	S_Asia
+INTG02	TRUE	Asia	India	India	Telangana	Yue_Global	CNS0528584	Bactrocera dorsalis	2017	India: Telangana	Asia	S_Asia
+INTG03	TRUE	Asia	India	India	Telangana	Yue_Global	CNS0528585	Bactrocera dorsalis	2017	India: Telangana	Asia	S_Asia
+INTG04	TRUE	Asia	India	India	Telangana	Yue_Global	CNS0528586	Bactrocera dorsalis	2017	India: Telangana	Asia	S_Asia
+INTG05	TRUE	Asia	India	India	Telangana	Yue_Global	CNS0528587	Bactrocera dorsalis	2017	India: Telangana	Asia	S_Asia
+INTN01	TRUE	Asia	India	India	Tamil_Nadu	Yue_Global	CNS0528589	Bactrocera dorsalis	2017	India: Tamil Nadu	Asia	S_Asia
+INTN02	TRUE	Asia	India	India	Tamil_Nadu	Yue_Global	CNS0528590	Bactrocera dorsalis	2017	India: Tamil Nadu	Asia	S_Asia
+INTN03	TRUE	Asia	India	India	Tamil_Nadu	Yue_Global	CNS0528591	Bactrocera dorsalis	2017	India: Tamil Nadu	Asia	S_Asia
+INTN04	TRUE	Asia	India	India	Tamil_Nadu	Yue_Global	CNS0528592	Bactrocera dorsalis	2017	India: Tamil Nadu	Asia	S_Asia
+INTN05	TRUE	Asia	India	India	Tamil_Nadu	Yue_Global	CNS0528593	Bactrocera dorsalis	2017	India: Tamil Nadu	Asia	S_Asia
+JSZJ01	TRUE	Asia	China	China	Jiangsu	Yue_Global	CNS0528285	Bactrocera dorsalis	42935	China: Jiangsu	Asia	E_Asia
+JSZJ02	TRUE	Asia	China	China	Jiangsu	Yue_Global	CNS0528286	Bactrocera dorsalis	42935	China: Jiangsu	Asia	E_Asia
+JSZJ03	TRUE	Asia	China	China	Jiangsu	Yue_Global	CNS0528287	Bactrocera dorsalis	42935	China: Jiangsu	Asia	E_Asia
+JSZJ04	TRUE	Asia	China	China	Jiangsu	Yue_Global	CNS0528288	Bactrocera dorsalis	42935	China: Jiangsu	Asia	E_Asia
+JSZJ05	TRUE	Asia	China	China	Jiangsu	Yue_Global	CNS0528289	Bactrocera dorsalis	42935	China: Jiangsu	Asia	E_Asia
+JXNC01	TRUE	Asia	China	China	Jiangxi	Yue_Global	CNS0528325	Bactrocera dorsalis	43354	China: Jiangxi	Asia	E_Asia
+JXNC02	TRUE	Asia	China	China	Jiangxi	Yue_Global	CNS0528326	Bactrocera dorsalis	43354	China: Jiangxi	Asia	E_Asia
+JXNC03	TRUE	Asia	China	China	Jiangxi	Yue_Global	CNS0528327	Bactrocera dorsalis	43354	China: Jiangxi	Asia	E_Asia
+JXNC04	TRUE	Asia	China	China	Jiangxi	Yue_Global	CNS0528328	Bactrocera dorsalis	43354	China: Jiangxi	Asia	E_Asia
+JXNC05	TRUE	Asia	China	China	Jiangxi	Yue_Global	CNS0528329	Bactrocera dorsalis	43354	China: Jiangxi	Asia	E_Asia
+KENB01	TRUE	Africa	Kenya	Kenya	Nairobi	Yue_Global	CNS0528692	Bactrocera dorsalis	43122	Kenya: Nairobi	Africa	E_Africa
+KENB02	TRUE	Africa	Kenya	Kenya	Nairobi	Yue_Global	CNS0528693	Bactrocera dorsalis	43122	Kenya: Nairobi	Africa	E_Africa
+KENB03	TRUE	Africa	Kenya	Kenya	Nairobi	Yue_Global	CNS0528694	Bactrocera dorsalis	43122	Kenya: Nairobi	Africa	E_Africa
+KENB04	TRUE	Africa	Kenya	Kenya	Nairobi	Yue_Global	CNS0528695	Bactrocera dorsalis	43122	Kenya: Nairobi	Africa	E_Africa
+KENB05	TRUE	Africa	Kenya	Kenya	Nairobi	Yue_Global	CNS0528696	Bactrocera dorsalis	43122	Kenya: Nairobi	Africa	E_Africa
+LAVT01	TRUE	Asia	Laos	Laos	Vientiane	Yue_Global	CNS0528435	Bactrocera dorsalis	2017-05	Laos: Vientiane	Asia	SE_Asia
+LAVT02	TRUE	Asia	Laos	Laos	Vientiane	Yue_Global	CNS0528436	Bactrocera dorsalis	2017-05	Laos: Vientiane	Asia	SE_Asia
+LAVT03	TRUE	Asia	Laos	Laos	Vientiane	Yue_Global	CNS0528437	Bactrocera dorsalis	2017-05	Laos: Vientiane	Asia	SE_Asia
+LAVT04	TRUE	Asia	Laos	Laos	Vientiane	Yue_Global	CNS0528438	Bactrocera dorsalis	2017-05	Laos: Vientiane	Asia	SE_Asia
+LAVT05	TRUE	Asia	Laos	Laos	Vientiane	Yue_Global	CNS0528439	Bactrocera dorsalis	2017-05	Laos: Vientiane	Asia	SE_Asia
+LKAD01	TRUE	Asia	Sri_Lanka	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528599	Bactrocera dorsalis	43819	Sri Lanka: Anuradhapura	Asia	S_Asia
+LKAD02	TRUE	Asia	Sri_Lanka	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528600	Bactrocera dorsalis	43819	Sri Lanka: Anuradhapura	Asia	S_Asia
+LKAD03	TRUE	Asia	Sri_Lanka	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528601	Bactrocera dorsalis	43819	Sri Lanka: Anuradhapura	Asia	S_Asia
+LKAD04	TRUE	Asia	Sri_Lanka	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528602	Bactrocera dorsalis	43819	Sri Lanka: Anuradhapura	Asia	S_Asia
+LKAD05	TRUE	Asia	Sri_Lanka	Sri_Lanka	Anuradhapura	Yue_Global	CNS0528603	Bactrocera dorsalis	43819	Sri Lanka: Anuradhapura	Asia	S_Asia
+MGAT06	TRUE	Madagascar	Madagascar	Madagascar	Antananarivo	Yue_Global	CNS0528742	Bactrocera dorsalis	43810	Madagascar: Antananarivo	Africa	E_Africa
+MGAT05	TRUE	Madagascar	Madagascar	Madagascar	Antananarivo	Yue_Global	CNS0528746	Bactrocera dorsalis	43814	Madagascar: Antananarivo	Africa	E_Africa
+MLBM01	TRUE	Africa	Mali	Mali	Bamako	Yue_Global	CNS0528639	Bactrocera dorsalis	2017-06	Mali: Bamako	Africa	W_Africa
+MLBM02	TRUE	Africa	Mali	Mali	Bamako	Yue_Global	CNS0528640	Bactrocera dorsalis	2017-06	Mali: Bamako	Africa	W_Africa
+MLBM03	TRUE	Africa	Mali	Mali	Bamako	Yue_Global	CNS0528641	Bactrocera dorsalis	2017-06	Mali: Bamako	Africa	W_Africa
+MLBM04	TRUE	Africa	Mali	Mali	Bamako	Yue_Global	CNS0528642	Bactrocera dorsalis	2017-06	Mali: Bamako	Africa	W_Africa
+MLBM05	TRUE	Africa	Mali	Mali	Bamako	Yue_Global	CNS0528643	Bactrocera dorsalis	2017-06	Mali: Bamako	Africa	W_Africa
+MMYG01	TRUE	Asia	Myanmar	Myanmar	Yangon	Yue_Global	CNS0528455	Bactrocera dorsalis	2018-04	Myanmar: Yangon	Asia	SE_Asia
+MMYG02	TRUE	Asia	Myanmar	Myanmar	Yangon	Yue_Global	CNS0528456	Bactrocera dorsalis	2018-04	Myanmar: Yangon	Asia	SE_Asia
+MMYG03	TRUE	Asia	Myanmar	Myanmar	Yangon	Yue_Global	CNS0528457	Bactrocera dorsalis	2018-04	Myanmar: Yangon	Asia	SE_Asia
+MMYG04	TRUE	Asia	Myanmar	Myanmar	Yangon	Yue_Global	CNS0528458	Bactrocera dorsalis	2018-04	Myanmar: Yangon	Asia	SE_Asia
+MMYG05	TRUE	Asia	Myanmar	Myanmar	Yangon	Yue_Global	CNS0528459	Bactrocera dorsalis	2018-04	Myanmar: Yangon	Asia	SE_Asia
+MWZB01	TRUE	Africa	Malawi	Malawi	Zomba	Yue_Global	CNS0528722	Bactrocera dorsalis	2010-10	Malawi: Zomba	Africa	S_Africa
+MWZB02	TRUE	Africa	Malawi	Malawi	Zomba	Yue_Global	CNS0528723	Bactrocera dorsalis	2010-10	Malawi: Zomba	Africa	S_Africa
+MWZB03	TRUE	Africa	Malawi	Malawi	Zomba	Yue_Global	CNS0528724	Bactrocera dorsalis	2010-10	Malawi: Zomba	Africa	S_Africa
+MWZB04	TRUE	Africa	Malawi	Malawi	Zomba	Yue_Global	CNS0528725	Bactrocera dorsalis	2010-10	Malawi: Zomba	Africa	S_Africa
+MWZB05	TRUE	Africa	Malawi	Malawi	Zomba	Yue_Global	CNS0528726	Bactrocera dorsalis	2010-10	Malawi: Zomba	Africa	S_Africa
+MYKL01	TRUE	Asia	Malaysia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528515	Bactrocera dorsalis	43327	Malaysia: Kuala Lumpur	Asia	SE_Asia
+MYKL02	TRUE	Asia	Malaysia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528516	Bactrocera dorsalis	43327	Malaysia: Kuala Lumpur	Asia	SE_Asia
+MYKL03	TRUE	Asia	Malaysia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528517	Bactrocera dorsalis	43327	Malaysia: Kuala Lumpur	Asia	SE_Asia
+MYKL04	TRUE	Asia	Malaysia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528518	Bactrocera dorsalis	43327	Malaysia: Kuala Lumpur	Asia	SE_Asia
+MYKL05	TRUE	Asia	Malaysia	Malaysia	Kuala_Lumpur	Yue_Global	CNS0528519	Bactrocera dorsalis	43327	Malaysia: Kuala Lumpur	Asia	SE_Asia
+NGNS01	TRUE	Africa	Nigeria	Nigeria	Nasarawa	Yue_Global	CNS0528669	Bactrocera dorsalis	2017-08	Nigeria: Nasarawa	Africa	W_Africa
+NGNS02	TRUE	Africa	Nigeria	Nigeria	Nasarawa	Yue_Global	CNS0528670	Bactrocera dorsalis	2017-08	Nigeria: Nasarawa	Africa	W_Africa
+NGNS03	TRUE	Africa	Nigeria	Nigeria	Nasarawa	Yue_Global	CNS0528671	Bactrocera dorsalis	2017-08	Nigeria: Nasarawa	Africa	W_Africa
+NPSH06	TRUE	Asia	Nepal	Nepal	Sindhuli	Yue_Global	CNS0528445	Bactrocera dorsalis	43837	Nepal: Sindhuli	Asia	S_Asia
+NPSH07	TRUE	Asia	Nepal	Nepal	Sindhuli	Yue_Global	CNS0528446	Bactrocera dorsalis	43837	Nepal: Sindhuli	Asia	S_Asia
+NPSH08	TRUE	Asia	Nepal	Nepal	Sindhuli	Yue_Global	CNS0528447	Bactrocera dorsalis	43837	Nepal: Sindhuli	Asia	S_Asia
+NPSH04	TRUE	Asia	Nepal	Nepal	Sindhuli	Yue_Global	CNS0528448	Bactrocera dorsalis	43837	Nepal: Sindhuli	Asia	S_Asia
+NPSH05	TRUE	Asia	Nepal	Nepal	Sindhuli	Yue_Global	CNS0528449	Bactrocera dorsalis	43837	Nepal: Sindhuli	Asia	S_Asia
+PGPM01	TRUE	Others	Papua_New_Guinea	Papua_New_Guinea	Port_Moresby	Yue_Global	CNS0528535	Bactrocera dorsalis	43648	Papua New Guinea: Port Moresby	Others	Other
+PGPM02	TRUE	Others	Papua_New_Guinea	Papua_New_Guinea	Port_Moresby	Yue_Global	CNS0528536	Bactrocera dorsalis	43648	Papua New Guinea: Port Moresby	Others	Other
+PGPM03	TRUE	Others	Papua_New_Guinea	Papua_New_Guinea	Port_Moresby	Yue_Global	CNS0528537	Bactrocera dorsalis	43648	Papua New Guinea: Port Moresby	Others	Other
+PGPM04	TRUE	Others	Papua_New_Guinea	Papua_New_Guinea	Port_Moresby	Yue_Global	CNS0528538	Bactrocera dorsalis	43648	Papua New Guinea: Port Moresby	Others	Other
+PGPM05	TRUE	Others	Papua_New_Guinea	Papua_New_Guinea	Port_Moresby	Yue_Global	CNS0528539	Bactrocera dorsalis	43648	Papua New Guinea: Port Moresby	Others	Other
+PHDM01	TRUE	Asia	Philippines	Philippines	Dumaguete	Yue_Global	CNS0528495	Bactrocera dorsalis	43694	Philippines: Dumaguete	Asia	SE_Asia
+PHDM02	TRUE	Asia	Philippines	Philippines	Dumaguete	Yue_Global	CNS0528496	Bactrocera dorsalis	43694	Philippines: Dumaguete	Asia	SE_Asia
+PHDM03	TRUE	Asia	Philippines	Philippines	Dumaguete	Yue_Global	CNS0528497	Bactrocera dorsalis	43694	Philippines: Dumaguete	Asia	SE_Asia
+PHDM04	TRUE	Asia	Philippines	Philippines	Dumaguete	Yue_Global	CNS0528498	Bactrocera dorsalis	43694	Philippines: Dumaguete	Asia	SE_Asia
+PHDM05	TRUE	Asia	Philippines	Philippines	Dumaguete	Yue_Global	CNS0528499	Bactrocera dorsalis	43694	Philippines: Dumaguete	Asia	SE_Asia
+PHDV01	TRUE	Asia	Philippines	Philippines	Davao	Yue_Global	CNS0528505	Bactrocera dorsalis	43694	Philippines: Davao	Asia	SE_Asia
+PHDV02	TRUE	Asia	Philippines	Philippines	Davao	Yue_Global	CNS0528506	Bactrocera dorsalis	43694	Philippines: Davao	Asia	SE_Asia
+PHDV03	TRUE	Asia	Philippines	Philippines	Davao	Yue_Global	CNS0528507	Bactrocera dorsalis	43694	Philippines: Davao	Asia	SE_Asia
+PHDV04	TRUE	Asia	Philippines	Philippines	Davao	Yue_Global	CNS0528508	Bactrocera dorsalis	43694	Philippines: Davao	Asia	SE_Asia
+PHDV05	TRUE	Asia	Philippines	Philippines	Davao	Yue_Global	CNS0528509	Bactrocera dorsalis	43694	Philippines: Davao	Asia	SE_Asia
+PKMR01	TRUE	Asia	Pakistan	Pakistan	Murree	Yue_Global	CNS0528545	Bactrocera dorsalis	43328	Pakistan: Murree	Asia	S_Asia
+PKMR02	TRUE	Asia	Pakistan	Pakistan	Murree	Yue_Global	CNS0528546	Bactrocera dorsalis	43328	Pakistan: Murree	Asia	S_Asia
+PKMR03	TRUE	Asia	Pakistan	Pakistan	Murree	Yue_Global	CNS0528547	Bactrocera dorsalis	43328	Pakistan: Murree	Asia	S_Asia
+PKMR04	TRUE	Asia	Pakistan	Pakistan	Murree	Yue_Global	CNS0528548	Bactrocera dorsalis	43328	Pakistan: Murree	Asia	S_Asia
+PKMR05	TRUE	Asia	Pakistan	Pakistan	Murree	Yue_Global	CNS0528549	Bactrocera dorsalis	43328	Pakistan: Murree	Asia	S_Asia
+SCLS01	TRUE	Asia	China	China	Sichuan	Yue_Global	CNS0528335	Bactrocera dorsalis	43383	China: Sichuan	Asia	E_Asia
+SCLS02	TRUE	Asia	China	China	Sichuan	Yue_Global	CNS0528336	Bactrocera dorsalis	43383	China: Sichuan	Asia	E_Asia
+SCLS03	TRUE	Asia	China	China	Sichuan	Yue_Global	CNS0528337	Bactrocera dorsalis	43383	China: Sichuan	Asia	E_Asia
+SCLS04	TRUE	Asia	China	China	Sichuan	Yue_Global	CNS0528338	Bactrocera dorsalis	43383	China: Sichuan	Asia	E_Asia
+SCLS05	TRUE	Asia	China	China	Sichuan	Yue_Global	CNS0528339	Bactrocera dorsalis	43383	China: Sichuan	Asia	E_Asia
+SDSG01	TRUE	Africa	Sudan	Sudan	Singa	Yue_Global	CNS0528619	Bactrocera dorsalis	2009-08	Sudan: Singa	Africa	E_Africa
+SDSG02	TRUE	Africa	Sudan	Sudan	Singa	Yue_Global	CNS0528620	Bactrocera dorsalis	2009-08	Sudan: Singa	Africa	E_Africa
+SDSG03	TRUE	Africa	Sudan	Sudan	Singa	Yue_Global	CNS0528621	Bactrocera dorsalis	2009-08	Sudan: Singa	Africa	E_Africa
+SDSG04	TRUE	Africa	Sudan	Sudan	Singa	Yue_Global	CNS0528622	Bactrocera dorsalis	2009-08	Sudan: Singa	Africa	E_Africa
+SDSG05	TRUE	Africa	Sudan	Sudan	Singa	Yue_Global	CNS0528623	Bactrocera dorsalis	2009-08	Sudan: Singa	Africa	E_Africa
+SNBG01	TRUE	Africa	Senegal	Senegal	Bignona	Yue_Global	CNS0528629	Bactrocera dorsalis	2017-06	Senegal: Bignona	Africa	W_Africa
+SNBG02	TRUE	Africa	Senegal	Senegal	Bignona	Yue_Global	CNS0528630	Bactrocera dorsalis	2017-06	Senegal: Bignona	Africa	W_Africa
+SNBG03	TRUE	Africa	Senegal	Senegal	Bignona	Yue_Global	CNS0528631	Bactrocera dorsalis	2017-06	Senegal: Bignona	Africa	W_Africa
+SNBG04	TRUE	Africa	Senegal	Senegal	Bignona	Yue_Global	CNS0528632	Bactrocera dorsalis	2017-06	Senegal: Bignona	Africa	W_Africa
+SNBG05	TRUE	Africa	Senegal	Senegal	Bignona	Yue_Global	CNS0528633	Bactrocera dorsalis	2017-06	Senegal: Bignona	Africa	W_Africa
+THBK01	TRUE	Asia	Thailand	Thailand	Bangkok	Yue_Global	CNS0528465	Bactrocera dorsalis	2018-04	Thailand: Bangkok	Asia	SE_Asia
+THBK02	TRUE	Asia	Thailand	Thailand	Bangkok	Yue_Global	CNS0528466	Bactrocera dorsalis	2018-04	Thailand: Bangkok	Asia	SE_Asia
+THBK03	TRUE	Asia	Thailand	Thailand	Bangkok	Yue_Global	CNS0528467	Bactrocera dorsalis	2018-04	Thailand: Bangkok	Asia	SE_Asia
+THBK04	TRUE	Asia	Thailand	Thailand	Bangkok	Yue_Global	CNS0528468	Bactrocera dorsalis	2018-04	Thailand: Bangkok	Asia	SE_Asia
+THBK06	TRUE	Asia	Thailand	Thailand	Bangkok	Yue_Global	CNS0528469	Bactrocera dorsalis	2018-04	Thailand: Bangkok	Asia	SE_Asia
+THPK01	TRUE	Asia	Thailand	Thailand	Phuket	Yue_Global	CNS0528475	Bactrocera dorsalis	43499	Thailand: Phuket	Asia	SE_Asia
+THPK02	TRUE	Asia	Thailand	Thailand	Phuket	Yue_Global	CNS0528476	Bactrocera dorsalis	43499	Thailand: Phuket	Asia	SE_Asia
+THPK03	TRUE	Asia	Thailand	Thailand	Phuket	Yue_Global	CNS0528477	Bactrocera dorsalis	43499	Thailand: Phuket	Asia	SE_Asia
+THPK04	TRUE	Asia	Thailand	Thailand	Phuket	Yue_Global	CNS0528478	Bactrocera dorsalis	43499	Thailand: Phuket	Asia	SE_Asia
+THPK05	TRUE	Asia	Thailand	Thailand	Phuket	Yue_Global	CNS0528479	Bactrocera dorsalis	43499	Thailand: Phuket	Asia	SE_Asia
+TWPD01	TRUE	Asia	China	China	Taiwan	Yue_Global	CNS0528415	Bactrocera dorsalis	2017-07	China: Taiwan	Asia	E_Asia
+TWPD02	TRUE	Asia	China	China	Taiwan	Yue_Global	CNS0528416	Bactrocera dorsalis	2017-07	China: Taiwan	Asia	E_Asia
+TWPD03	TRUE	Asia	China	China	Taiwan	Yue_Global	CNS0528417	Bactrocera dorsalis	2017-07	China: Taiwan	Asia	E_Asia
+TWPD04	TRUE	Asia	China	China	Taiwan	Yue_Global	CNS0528418	Bactrocera dorsalis	2017-07	China: Taiwan	Asia	E_Asia
+TWPD05	TRUE	Asia	China	China	Taiwan	Yue_Global	CNS0528419	Bactrocera dorsalis	2017-07	China: Taiwan	Asia	E_Asia
+TWTY01	TRUE	Asia	China	China	Taiwan	Yue_Global	CNS0528425	Bactrocera dorsalis	2017-07	China: Taiwan	Asia	E_Asia
+TWTY02	TRUE	Asia	China	China	Taiwan	Yue_Global	CNS0528426	Bactrocera dorsalis	2017-07	China: Taiwan	Asia	E_Asia
+TWTY03	TRUE	Asia	China	China	Taiwan	Yue_Global	CNS0528427	Bactrocera dorsalis	2017-07	China: Taiwan	Asia	E_Asia
+TWTY04	TRUE	Asia	China	China	Taiwan	Yue_Global	CNS0528428	Bactrocera dorsalis	2017-07	China: Taiwan	Asia	E_Asia
+TWTY05	TRUE	Asia	China	China	Taiwan	Yue_Global	CNS0528429	Bactrocera dorsalis	2017-07	China: Taiwan	Asia	E_Asia
+UGEB01	TRUE	Africa	Uganda	Uganda	Entebbe	Yue_Global	CNS0528682	Bactrocera dorsalis	43336	Uganda: Entebbe	Africa	E_Africa
+UGEB02	TRUE	Africa	Uganda	Uganda	Entebbe	Yue_Global	CNS0528683	Bactrocera dorsalis	43336	Uganda: Entebbe	Africa	E_Africa
+UGEB03	TRUE	Africa	Uganda	Uganda	Entebbe	Yue_Global	CNS0528684	Bactrocera dorsalis	43336	Uganda: Entebbe	Africa	E_Africa
+UGEB04	TRUE	Africa	Uganda	Uganda	Entebbe	Yue_Global	CNS0528685	Bactrocera dorsalis	43336	Uganda: Entebbe	Africa	E_Africa
+UGEB05	TRUE	Africa	Uganda	Uganda	Entebbe	Yue_Global	CNS0528686	Bactrocera dorsalis	43336	Uganda: Entebbe	Africa	E_Africa
+USHW01	TRUE	Others	USA	USA	Hawaii	Yue_Global	CNS0528752	Bactrocera dorsalis	2014	USA: Hawaii	Others	Other
+USHW02	TRUE	Others	USA	USA	Hawaii	Yue_Global	CNS0528753	Bactrocera dorsalis	2014	USA: Hawaii	Others	Other
+USHW03	TRUE	Others	USA	USA	Hawaii	Yue_Global	CNS0528754	Bactrocera dorsalis	2014	USA: Hawaii	Others	Other
+USHW04	TRUE	Others	USA	USA	Hawaii	Yue_Global	CNS0528755	Bactrocera dorsalis	2014	USA: Hawaii	Others	Other
+USHW05	TRUE	Others	USA	USA	Hawaii	Yue_Global	CNS0528756	Bactrocera dorsalis	2014	USA: Hawaii	Others	Other
+VNTG01	TRUE	Asia	Viet_Nam	Viet_Nam		Yue_Global	CNS0528485	Bactrocera dorsalis	2018-10	Viet Nam	Asia	SE_Asia
+VNTG02	TRUE	Asia	Viet_Nam	Viet_Nam		Yue_Global	CNS0528486	Bactrocera dorsalis	2018-10	Viet Nam	Asia	SE_Asia
+VNTG03	TRUE	Asia	Viet_Nam	Viet_Nam		Yue_Global	CNS0528487	Bactrocera dorsalis	2018-10	Viet Nam	Asia	SE_Asia
+VNTG04	TRUE	Asia	Viet_Nam	Viet_Nam		Yue_Global	CNS0528488	Bactrocera dorsalis	2018-10	Viet Nam	Asia	SE_Asia
+VNTG05	TRUE	Asia	Viet_Nam	Viet_Nam		Yue_Global	CNS0528489	Bactrocera dorsalis	2018-10	Viet Nam	Asia	SE_Asia
+YNBS01	TRUE	Asia	China	China	Yunnan	Yue_Global	CNS0528355	Bactrocera dorsalis	43313	China: Yunnan	Asia	E_Asia
+YNBS02	TRUE	Asia	China	China	Yunnan	Yue_Global	CNS0528356	Bactrocera dorsalis	43313	China: Yunnan	Asia	E_Asia
+YNBS03	TRUE	Asia	China	China	Yunnan	Yue_Global	CNS0528357	Bactrocera dorsalis	43313	China: Yunnan	Asia	E_Asia
+YNBS04	TRUE	Asia	China	China	Yunnan	Yue_Global	CNS0528358	Bactrocera dorsalis	43313	China: Yunnan	Asia	E_Asia
+YNBS05	TRUE	Asia	China	China	Yunnan	Yue_Global	CNS0528359	Bactrocera dorsalis	43313	China: Yunnan	Asia	E_Asia
+YNJH01	TRUE	Asia	China	China	Yunnan	Yue_Global	CNS0528365	Bactrocera dorsalis	42911	China: Yunnan	Asia	E_Asia
+YNJH02	TRUE	Asia	China	China	Yunnan	Yue_Global	CNS0528366	Bactrocera dorsalis	42911	China: Yunnan	Asia	E_Asia
+YNJH03	TRUE	Asia	China	China	Yunnan	Yue_Global	CNS0528367	Bactrocera dorsalis	42911	China: Yunnan	Asia	E_Asia
+YNJH04	TRUE	Asia	China	China	Yunnan	Yue_Global	CNS0528368	Bactrocera dorsalis	42911	China: Yunnan	Asia	E_Asia
+YNJH05	TRUE	Asia	China	China	Yunnan	Yue_Global	CNS0528369	Bactrocera dorsalis	42911	China: Yunnan	Asia	E_Asia
+ZAMP01	TRUE	Africa	South_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528732	Bactrocera dorsalis	42398	South Africa: Mpumalanga	Africa	S_Africa
+ZAMP02	TRUE	Africa	South_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528733	Bactrocera dorsalis	42398	South Africa: Mpumalanga	Africa	S_Africa
+ZAMP03	TRUE	Africa	South_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528734	Bactrocera dorsalis	42398	South Africa: Mpumalanga	Africa	S_Africa
+ZAMP04	TRUE	Africa	South_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528735	Bactrocera dorsalis	42398	South Africa: Mpumalanga	Africa	S_Africa
+ZAMP05	TRUE	Africa	South_Africa	South_Africa	Mpumalanga	Yue_Global	CNS0528736	Bactrocera dorsalis	42398	South Africa: Mpumalanga	Africa	S_Africa
+ZJZJ01	TRUE	Asia	China	China	Zhejiang	Yue_Global	CNS0528305	Bactrocera dorsalis	43344	China: Zhejiang	Asia	E_Asia
+ZJZJ02	TRUE	Asia	China	China	Zhejiang	Yue_Global	CNS0528306	Bactrocera dorsalis	43344	China: Zhejiang	Asia	E_Asia
+ZJZJ03	TRUE	Asia	China	China	Zhejiang	Yue_Global	CNS0528307	Bactrocera dorsalis	43344	China: Zhejiang	Asia	E_Asia
+ZJZJ04	TRUE	Asia	China	China	Zhejiang	Yue_Global	CNS0528308	Bactrocera dorsalis	43344	China: Zhejiang	Asia	E_Asia
+ZJZJ05	TRUE	Asia	China	China	Zhejiang	Yue_Global	CNS0528309	Bactrocera dorsalis	43344	China: Zhejiang	Asia	E_Asia
+ReuPal1	TRUE	Mascarene	Reunion	Reunion	Palmistes	REACT	PP11_MKDN240006767-1A_227WTFLT4_L7	Bactrocera dorsalis	2023	Reunion: Palmistes	Asia	SE_Asia
+ReuPal2	TRUE	Mascarene	Reunion	Reunion	Palmistes	REACT	PP12_MKDN240006768-1A_227WTFLT4_L7	Bactrocera dorsalis	2023	Reunion: Palmistes	Asia	SE_Asia
+ReuPal3	TRUE	Mascarene	Reunion	Reunion	Palmistes	REACT	PP14_MKDN240006769-1A_227WTFLT4_L7	Bactrocera dorsalis	2023	Reunion: Palmistes	Asia	SE_Asia
+ReuPal4	TRUE	Mascarene	Reunion	Reunion	Palmistes	REACT	PP15_MKDN240006770-1A_227WTFLT4_L7	Bactrocera dorsalis	2023	Reunion: Palmistes	Asia	SE_Asia
+ReuPaL5	TRUE	Mascarene	Reunion	Reunion	Palmistes	REACT	PP16_MKDN240006771-1A_227WTFLT4_L7	Bactrocera dorsalis	2023	Reunion: Palmistes	Asia	SE_Asia
+ReuSal1	TRUE	Mascarene	Reunion	Reunion	Salazie	REACT	IA10_MKDN250007512-1A_22NHNCLT4_L7	Bactrocera dorsalis	2024	Reunion: Salazie	Asia	SE_Asia
+ReuSal2	TRUE	Mascarene	Reunion	Reunion	Salazie	REACT	IB10_MKDN250007513-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: Salazie	Asia	SE_Asia
+ReuSal3	TRUE	Mascarene	Reunion	Reunion	Salazie	REACT	IC10_MKDN250007514-1A_22NHNCLT4_L7	Bactrocera dorsalis	2024	Reunion: Salazie	Asia	SE_Asia
+ReuSal4	TRUE	Mascarene	Reunion	Reunion	Salazie	REACT	IE10_MKDN250007516-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: Salazie	Asia	SE_Asia
+ReuSaL5	TRUE	Mascarene	Reunion	Reunion	Salazie	REACT	IF10_MKDN250007517-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: Salazie	Asia	SE_Asia
+ReuAnd1	TRUE	Mascarene	Reunion	Reunion	StAndré	REACT	KB12_MKDN250007541-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: StAndré	Asia	SE_Asia
+ReuAnd2	TRUE	Mascarene	Reunion	Reunion	StAndré	REACT	KE12_MKDN250007544-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: StAndré	Asia	SE_Asia
+ReuAnd3	TRUE	Mascarene	Reunion	Reunion	StAndré	REACT	KG12_MKDN250007546-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: StAndré	Asia	SE_Asia
+ReuAnd4	TRUE	Mascarene	Reunion	Reunion	StAndré	REACT	KH12_MKDN250007547-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: StAndré	Asia	SE_Asia
+ReuAnd5	TRUE	Mascarene	Reunion	Reunion	StAndré	REACT	KI12_MKDN250007548-1A_22NHNCLT4_L7	Bactrocera dorsalis	2024	Reunion: StAndré	Asia	SE_Asia
+ReuBen1	TRUE	Mascarene	Reunion	Reunion	StBenoit	REACT	SBV13_MKDN240006761-1A_227WTFLT4_L7	Bactrocera dorsalis	2023	Reunion: StBenoit	Asia	SE_Asia
+ReuBen2	TRUE	Mascarene	Reunion	Reunion	StBenoit	REACT	SBV15_MKDN240006762-1A_227WTFLT4_L7	Bactrocera dorsalis	2023	Reunion: StBenoit	Asia	SE_Asia
+ReuBen3	TRUE	Mascarene	Reunion	Reunion	StBenoit	REACT	SBV1_MKDN240006754-1A_227WTFLT4_L6	Bactrocera dorsalis	2023	Reunion: StBenoit	Asia	SE_Asia
+ReuBen4	TRUE	Mascarene	Reunion	Reunion	StBenoit	REACT	SBV2_MKDN240006755-1A_227WTFLT4_L7	Bactrocera dorsalis	2023	Reunion: StBenoit	Asia	SE_Asia
+ReuBen5	TRUE	Mascarene	Reunion	Reunion	StBenoit	REACT	SBV3_MKDN240006756-1A_227WTFLT4_L7	Bactrocera dorsalis	2023	Reunion: StBenoit	Asia	SE_Asia
+ReuPau1	TRUE	Mascarene	Reunion	Reunion	StPaul	REACT	BB3_MKDN250007421-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: StPaul	Asia	SE_Asia
+ReuPau2	TRUE	Mascarene	Reunion	Reunion	StPaul	REACT	BC3_MKDN250007422-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: StPaul	Asia	SE_Asia
+ReuPau3	TRUE	Mascarene	Reunion	Reunion	StPaul	REACT	BD3_MKDN250007423-1A_22NHNCLT4_L7	Bactrocera dorsalis	2024	Reunion: StPaul	Asia	SE_Asia
+ReuPau4	TRUE	Mascarene	Reunion	Reunion	StPaul	REACT	BE3_MKDN250007424-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: StPaul	Asia	SE_Asia
+ReuPau5	TRUE	Mascarene	Reunion	Reunion	StPaul	REACT	BF3_MKDN250007425-1A_22NHNCLT4_L5	Bactrocera dorsalis	2024	Reunion: StPaul	Asia	SE_Asia
+ReuPie1	TRUE	Mascarene	Reunion	Reunion	StPierre	REACT	GA8_MKDN250007487-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: StPierre	Asia	SE_Asia
+ReuPie2	TRUE	Mascarene	Reunion	Reunion	StPierre	REACT	GB8_MKDN250007488-1A_22NHNCLT4_L7	Bactrocera dorsalis	2024	Reunion: StPierre	Asia	SE_Asia
+ReuPie3	TRUE	Mascarene	Reunion	Reunion	StPierre	REACT	GD8_MKDN250007490-1A_22NHNCLT4_L6	Bactrocera dorsalis	2024	Reunion: StPierre	Asia	SE_Asia
+ReuPie4	TRUE	Mascarene	Reunion	Reunion	StPierre	REACT	GE8_MKDN250007491-1A_22NHNCLT4_L7	Bactrocera dorsalis	2024	Reunion: StPierre	Asia	SE_Asia
+ReuPie5	TRUE	Mascarene	Reunion	Reunion	StPierre	REACT	GF8_MKDN250007492-1A_22NHNCLT4_L7	Bactrocera dorsalis	2024	Reunion: StPierre	Asia	SE_Asia
+Bd_2023_7	FALSE	Europe	Belgium	Belgium	Antwerpen, Theaterplein	Belgium	Bd_2023_7	Bactrocera dorsalis	04/08/23		Others	Other
+Bd_2023_4	FALSE	Europe	Belgium	Belgium	Anderlecht, Abbatoir	Belgium	Bd_2023_4	Bactrocera dorsalis	29/08/23		Others	Other
+Bd_2023_5	FALSE	Europe	Belgium	Belgium	Courcelles, Place Roosevelt	Belgium	Bd_2023_5	Bactrocera dorsalis	24/08/23		Others	Other
+Bd_2023_6	FALSE	Europe	Belgium	Belgium	Antwerpen, Samentuin lijsterbes	Belgium	Bd_2023_6	Bactrocera dorsalis	08/09/23		Others	Other
+Bd_2023_1	FALSE	Europe	Belgium	Belgium	Antwerpen, Maurits Sabbelaan	Belgium	Bd_2023_1	Bactrocera dorsalis	22/09/23		Others	Other
+Bd_2023_2	FALSE	Europe	Belgium	Belgium	Antwerpen, De Verborgen Kloostertuin	Belgium	Bd_2023_2	Bactrocera dorsalis	25/09/23		Others	Other
+Bd_2023_3	FALSE	Europe	Belgium	Belgium	Antwerpen, serviceflat Kerkeveld	Belgium	Bd_2023_3	Bactrocera dorsalis	09/10/23		Others	Other
+Bd_2024_1	FALSE	Europe	Belgium	Belgium	Antwerpen, Theaterplein	Belgium	Bd_2024_1	Bactrocera dorsalis	25/07/24		Others	Other
+Bd_2024_2	FALSE	Europe	Belgium	Belgium	Anderlecht, Abbatoir	Belgium	Bd_2024_2	Bactrocera dorsalis	06/08/24		Others	Other
+Bd_2024_3	FALSE	Europe	Belgium	Belgium	Antwerpen, Maurits Sabbelaan	Belgium	Bd_2024_3	Bactrocera dorsalis	23/08/24		Others	Other
+Bd_2024_4	FALSE	Europe	Belgium	Belgium	Antwerpen, Maurits Sabbelaan	Belgium	Bd_2024_4	Bactrocera dorsalis	06/09/24		Others	Other
+FAVV_1	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV1	Bactrocera dorsalis	19/03/24		Others	Other
+FAVV_2	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV2	Bactrocera dorsalis	01/05/24		Others	Other
+FAVV_3	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV3	Bactrocera dorsalis	21/05/24		Others	Other
+FAVV_4	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV4	Bactrocera dorsalis	24/05/24		Others	Other
+FAVV_5	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV5	Bactrocera dorsalis	25/07/24		Others	Other
+FAVV_6	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV6	Bactrocera dorsalis	06/05/24		Others	Other
+FAVV_7	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV7	Bactrocera dorsalis	08/08/24		Others	Other
+FAVV_11	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV_11	Bactrocera dorsalis	13/05/22		Others	Other
+FAVV_12	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV_12	Bactrocera dorsalis	27/07/23		Others	Other
+FAVV_13	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV_13	Bactrocera dorsalis	03/08/23		Others	Other
+FAVV_14	FALSE	Europe	Belgium	Belgium	Point of entry, Belgium	Belgium	FAVV_14	Bactrocera dorsalis	14/07/21		Others	Other

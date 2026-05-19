@@ -1,0 +1,193 @@
+panel_id	group_col	K	sample_id	top_group	top_posterior	second_group	second_posterior	posterior_gap	n_snps_used	confidence	status	note
+P2_subregion_within_africa	subregion	1	Bd_2023_7						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	Bd_2024_2						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	FAVV_1						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	FAVV_2						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	FAVV_3						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	FAVV_4						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	FAVV_5						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	FAVV_6						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	FAVV_7						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	FAVV_11						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	FAVV_12						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	1	FAVV_13						1	Low	too_few_snps	Need >= 300; have 1
+P2_subregion_within_africa	subregion	2	Bd_2023_7						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	Bd_2024_2						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	FAVV_1						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	FAVV_2						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	FAVV_3						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	FAVV_4						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	FAVV_5						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	FAVV_6						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	FAVV_7						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	FAVV_11						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	FAVV_12						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	2	FAVV_13						2	Low	too_few_snps	Need >= 300; have 2
+P2_subregion_within_africa	subregion	3	Bd_2023_7						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	Bd_2024_2						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	FAVV_1						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	FAVV_2						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	FAVV_3						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	FAVV_4						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	FAVV_5						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	FAVV_6						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	FAVV_7						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	FAVV_11						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	FAVV_12						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	3	FAVV_13						3	Low	too_few_snps	Need >= 300; have 3
+P2_subregion_within_africa	subregion	4	Bd_2023_7						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	Bd_2024_2						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	FAVV_1						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	FAVV_2						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	FAVV_3						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	FAVV_4						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	FAVV_5						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	FAVV_6						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	FAVV_7						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	FAVV_11						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	FAVV_12						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	4	FAVV_13						4	Low	too_few_snps	Need >= 300; have 4
+P2_subregion_within_africa	subregion	5	Bd_2023_7						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	Bd_2024_2						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	FAVV_1						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	FAVV_2						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	FAVV_3						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	FAVV_4						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	FAVV_5						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	FAVV_6						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	FAVV_7						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	FAVV_11						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	FAVV_12						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	5	FAVV_13						5	Low	too_few_snps	Need >= 300; have 5
+P2_subregion_within_africa	subregion	10	Bd_2023_7						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	Bd_2024_2						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	FAVV_1						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	FAVV_2						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	FAVV_3						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	FAVV_4						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	FAVV_5						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	FAVV_6						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	FAVV_7						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	FAVV_11						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	FAVV_12						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	10	FAVV_13						10	Low	too_few_snps	Need >= 300; have 10
+P2_subregion_within_africa	subregion	20	Bd_2023_7						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	Bd_2024_2						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	FAVV_1						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	FAVV_2						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	FAVV_3						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	FAVV_4						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	FAVV_5						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	FAVV_6						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	FAVV_7						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	FAVV_11						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	FAVV_12						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	20	FAVV_13						20	Low	too_few_snps	Need >= 300; have 20
+P2_subregion_within_africa	subregion	50	Bd_2023_7						50	Low	too_few_snps	Need >= 300; have 50
+P2_subregion_within_africa	subregion	50	Bd_2024_2						50	Low	too_few_snps	Need >= 300; have 50
+P2_subregion_within_africa	subregion	50	FAVV_1						50	Low	too_few_snps	Need >= 300; have 50
+P2_subregion_within_africa	subregion	50	FAVV_2						49	Low	too_few_snps	Need >= 300; have 49
+P2_subregion_within_africa	subregion	50	FAVV_3						49	Low	too_few_snps	Need >= 300; have 49
+P2_subregion_within_africa	subregion	50	FAVV_4						50	Low	too_few_snps	Need >= 300; have 50
+P2_subregion_within_africa	subregion	50	FAVV_5						50	Low	too_few_snps	Need >= 300; have 50
+P2_subregion_within_africa	subregion	50	FAVV_6						50	Low	too_few_snps	Need >= 300; have 50
+P2_subregion_within_africa	subregion	50	FAVV_7						50	Low	too_few_snps	Need >= 300; have 50
+P2_subregion_within_africa	subregion	50	FAVV_11						50	Low	too_few_snps	Need >= 300; have 50
+P2_subregion_within_africa	subregion	50	FAVV_12						50	Low	too_few_snps	Need >= 300; have 50
+P2_subregion_within_africa	subregion	50	FAVV_13						50	Low	too_few_snps	Need >= 300; have 50
+P2_subregion_within_africa	subregion	100	Bd_2023_7						99	Low	too_few_snps	Need >= 300; have 99
+P2_subregion_within_africa	subregion	100	Bd_2024_2						100	Low	too_few_snps	Need >= 300; have 100
+P2_subregion_within_africa	subregion	100	FAVV_1						100	Low	too_few_snps	Need >= 300; have 100
+P2_subregion_within_africa	subregion	100	FAVV_2						99	Low	too_few_snps	Need >= 300; have 99
+P2_subregion_within_africa	subregion	100	FAVV_3						99	Low	too_few_snps	Need >= 300; have 99
+P2_subregion_within_africa	subregion	100	FAVV_4						100	Low	too_few_snps	Need >= 300; have 100
+P2_subregion_within_africa	subregion	100	FAVV_5						100	Low	too_few_snps	Need >= 300; have 100
+P2_subregion_within_africa	subregion	100	FAVV_6						100	Low	too_few_snps	Need >= 300; have 100
+P2_subregion_within_africa	subregion	100	FAVV_7						100	Low	too_few_snps	Need >= 300; have 100
+P2_subregion_within_africa	subregion	100	FAVV_11						100	Low	too_few_snps	Need >= 300; have 100
+P2_subregion_within_africa	subregion	100	FAVV_12						100	Low	too_few_snps	Need >= 300; have 100
+P2_subregion_within_africa	subregion	100	FAVV_13						100	Low	too_few_snps	Need >= 300; have 100
+P2_subregion_within_africa	subregion	200	Bd_2023_7						199	Low	too_few_snps	Need >= 300; have 199
+P2_subregion_within_africa	subregion	200	Bd_2024_2						200	Low	too_few_snps	Need >= 300; have 200
+P2_subregion_within_africa	subregion	200	FAVV_1						200	Low	too_few_snps	Need >= 300; have 200
+P2_subregion_within_africa	subregion	200	FAVV_2						199	Low	too_few_snps	Need >= 300; have 199
+P2_subregion_within_africa	subregion	200	FAVV_3						198	Low	too_few_snps	Need >= 300; have 198
+P2_subregion_within_africa	subregion	200	FAVV_4						200	Low	too_few_snps	Need >= 300; have 200
+P2_subregion_within_africa	subregion	200	FAVV_5						200	Low	too_few_snps	Need >= 300; have 200
+P2_subregion_within_africa	subregion	200	FAVV_6						200	Low	too_few_snps	Need >= 300; have 200
+P2_subregion_within_africa	subregion	200	FAVV_7						200	Low	too_few_snps	Need >= 300; have 200
+P2_subregion_within_africa	subregion	200	FAVV_11						200	Low	too_few_snps	Need >= 300; have 200
+P2_subregion_within_africa	subregion	200	FAVV_12						199	Low	too_few_snps	Need >= 300; have 199
+P2_subregion_within_africa	subregion	200	FAVV_13						199	Low	too_few_snps	Need >= 300; have 199
+P2_subregion_within_africa	subregion	500	Bd_2023_7	W_Africa	0.999884456822819	E_Africa	0.000115543177180849	0.999768913645638	499	High	ok	""
+P2_subregion_within_africa	subregion	500	Bd_2024_2	E_Africa	0.514399086971686	W_Africa	0.485600913028315	0.028798173943371	500	Low	low_gap	posterior_gap<0.25
+P2_subregion_within_africa	subregion	500	FAVV_1	E_Africa	0.999999995918527	W_Africa	4.08147266530867e-09	0.999999991837054	500	High	ok	""
+P2_subregion_within_africa	subregion	500	FAVV_2	E_Africa	0.999999984302851	W_Africa	1.56971494403564e-08	0.999999968605701	498	High	ok	""
+P2_subregion_within_africa	subregion	500	FAVV_3	W_Africa	0.999997478629904	E_Africa	2.52137009613668e-06	0.999994957259808	498	High	ok	""
+P2_subregion_within_africa	subregion	500	FAVV_4	W_Africa	0.999888135315278	E_Africa	0.000111864684722229	0.999776270630556	500	High	ok	""
+P2_subregion_within_africa	subregion	500	FAVV_5	E_Africa	0.999999971342217	W_Africa	2.86577829373809e-08	0.999999942684434	500	High	ok	""
+P2_subregion_within_africa	subregion	500	FAVV_6	W_Africa	0.999999988758993	E_Africa	1.12410065308877e-08	0.999999977517987	500	High	ok	""
+P2_subregion_within_africa	subregion	500	FAVV_7	E_Africa	0.999999999999972	W_Africa	2.84210719943733e-14	0.999999999999943	499	High	ok	""
+P2_subregion_within_africa	subregion	500	FAVV_11	E_Africa	0.999999645606447	W_Africa	3.54393552882007e-07	0.999999291212894	500	High	ok	""
+P2_subregion_within_africa	subregion	500	FAVV_12	E_Africa	0.5782376755927	W_Africa	0.4217623244073	0.156475351185401	499	Low	low_gap	posterior_gap<0.25
+P2_subregion_within_africa	subregion	500	FAVV_13	W_Africa	0.999999867838824	E_Africa	1.32161176349673e-07	0.999999735677647	498	High	ok	""
+P2_subregion_within_africa	subregion	1000	Bd_2023_7	W_Africa	0.999940344125702	E_Africa	5.96558742976888e-05	0.999880688251405	997	High	ok	""
+P2_subregion_within_africa	subregion	1000	Bd_2024_2	W_Africa	0.999989854595779	E_Africa	1.01454042205134e-05	0.999979709191559	1000	High	ok	""
+P2_subregion_within_africa	subregion	1000	FAVV_1	E_Africa	0.999999999999997	W_Africa	2.82414484803873e-15	0.999999999999994	999	High	ok	""
+P2_subregion_within_africa	subregion	1000	FAVV_2	E_Africa	0.999999981421178	W_Africa	1.85788215532055e-08	0.999999962842357	997	High	ok	""
+P2_subregion_within_africa	subregion	1000	FAVV_3	W_Africa	0.999999999741183	E_Africa	2.58817067141481e-10	0.999999999482366	998	High	ok	""
+P2_subregion_within_africa	subregion	1000	FAVV_4	W_Africa	1	E_Africa	7.68657722366552e-17	1	1000	High	ok	""
+P2_subregion_within_africa	subregion	1000	FAVV_5	E_Africa	1	W_Africa	2.30067671333e-16	1	999	High	ok	""
+P2_subregion_within_africa	subregion	1000	FAVV_6	W_Africa	1	E_Africa	1.19601640634199e-18	1	999	High	ok	""
+P2_subregion_within_africa	subregion	1000	FAVV_7	E_Africa	1	W_Africa	2.44663612775688e-30	1	999	High	ok	""
+P2_subregion_within_africa	subregion	1000	FAVV_11	E_Africa	0.999997989735381	W_Africa	2.01026461955972e-06	0.999995979470761	1000	High	ok	""
+P2_subregion_within_africa	subregion	1000	FAVV_12	W_Africa	0.999999988515343	E_Africa	1.14846575180551e-08	0.999999977030685	998	High	ok	""
+P2_subregion_within_africa	subregion	1000	FAVV_13	W_Africa	0.999999999999784	E_Africa	2.15628985289583e-13	0.999999999999569	997	High	ok	""
+P2_subregion_within_africa	subregion	2000	Bd_2023_7	W_Africa	0.999991157821192	E_Africa	8.84217880780963e-06	0.999982315642384	1996	High	ok	""
+P2_subregion_within_africa	subregion	2000	Bd_2024_2	W_Africa	0.999999999996219	E_Africa	3.78091049331874e-12	0.999999999992438	1998	High	ok	""
+P2_subregion_within_africa	subregion	2000	FAVV_1	E_Africa	0.999999999999647	W_Africa	3.52753890491246e-13	0.999999999999294	1998	High	ok	""
+P2_subregion_within_africa	subregion	2000	FAVV_2	E_Africa	0.853894462978456	W_Africa	0.146105537021544	0.707788925956912	1996	Moderate	ok	""
+P2_subregion_within_africa	subregion	2000	FAVV_3	W_Africa	0.999999999999961	E_Africa	3.90855679457426e-14	0.999999999999922	1998	High	ok	""
+P2_subregion_within_africa	subregion	2000	FAVV_4	W_Africa	1	E_Africa	2.74677176862838e-34	1	1998	High	ok	""
+P2_subregion_within_africa	subregion	2000	FAVV_5	E_Africa	1	W_Africa	1.58440123330592e-21	1	1998	High	ok	""
+P2_subregion_within_africa	subregion	2000	FAVV_6	W_Africa	1	E_Africa	4.48252564397843e-41	1	1997	High	ok	""
+P2_subregion_within_africa	subregion	2000	FAVV_7	E_Africa	1	W_Africa	1.43615820709829e-48	1	1998	High	ok	""
+P2_subregion_within_africa	subregion	2000	FAVV_11	E_Africa	0.99999999937521	W_Africa	6.24789833669235e-10	0.99999999875042	1999	High	ok	""
+P2_subregion_within_africa	subregion	2000	FAVV_12	W_Africa	1	E_Africa	3.9641310401561e-16	1	1996	High	ok	""
+P2_subregion_within_africa	subregion	2000	FAVV_13	W_Africa	1	E_Africa	4.24062565052894e-16	1	1993	High	ok	""
+P2_subregion_within_africa	subregion	5000	Bd_2023_7	E_Africa	0.999999138597232	W_Africa	8.61402768244823e-07	0.999998277194463	4994	High	ok	""
+P2_subregion_within_africa	subregion	5000	Bd_2024_2	E_Africa	0.999959369338436	W_Africa	4.06306615639706e-05	0.999918738676872	4997	High	ok	""
+P2_subregion_within_africa	subregion	5000	FAVV_1	E_Africa	1	W_Africa	5.33131094578182e-17	1	4996	High	ok	""
+P2_subregion_within_africa	subregion	5000	FAVV_2	W_Africa	0.999905316169231	E_Africa	9.46838307684642e-05	0.999810632338463	4993	High	ok	""
+P2_subregion_within_africa	subregion	5000	FAVV_3	W_Africa	1	E_Africa	2.71181383840277e-42	1	4998	High	ok	""
+P2_subregion_within_africa	subregion	5000	FAVV_4	W_Africa	1	E_Africa	4.35149975249912e-61	1	4995	High	ok	""
+P2_subregion_within_africa	subregion	5000	FAVV_5	E_Africa	1	W_Africa	3.51115905062262e-56	1	4995	High	ok	""
+P2_subregion_within_africa	subregion	5000	FAVV_6	W_Africa	1	E_Africa	7.1439381147102e-87	1	4993	High	ok	""
+P2_subregion_within_africa	subregion	5000	FAVV_7	E_Africa	1	W_Africa	9.85484802002937e-83	1	4996	High	ok	""
+P2_subregion_within_africa	subregion	5000	FAVV_11	E_Africa	0.96745022720156	W_Africa	0.0325497727984397	0.934900454403121	4999	High	ok	""
+P2_subregion_within_africa	subregion	5000	FAVV_12	W_Africa	1	E_Africa	7.98594886323024e-39	1	4992	High	ok	""
+P2_subregion_within_africa	subregion	5000	FAVV_13	W_Africa	1	E_Africa	1.34004560072763e-43	1	4988	High	ok	""
+P2_subregion_within_africa	subregion	10000	Bd_2023_7	E_Africa	1	W_Africa	1.84142693143148e-24	1	9993	High	ok	""
+P2_subregion_within_africa	subregion	10000	Bd_2024_2	E_Africa	0.590381200154785	W_Africa	0.409618799845215	0.180762400309569	9987	Low	low_gap	posterior_gap<0.25
+P2_subregion_within_africa	subregion	10000	FAVV_1	W_Africa	0.999999999978454	E_Africa	2.15462098745621e-11	0.999999999956908	9994	High	ok	""
+P2_subregion_within_africa	subregion	10000	FAVV_2	W_Africa	0.999999999988995	E_Africa	1.10053289448158e-11	0.999999999977989	9993	High	ok	""
+P2_subregion_within_africa	subregion	10000	FAVV_3	W_Africa	1	E_Africa	3.46980204133195e-85	1	9993	High	ok	""
+P2_subregion_within_africa	subregion	10000	FAVV_4	W_Africa	1	E_Africa	1.66709287246273e-99	1	9991	High	ok	""
+P2_subregion_within_africa	subregion	10000	FAVV_5	E_Africa	1	W_Africa	1.41570289094591e-80	1	9984	High	ok	""
+P2_subregion_within_africa	subregion	10000	FAVV_6	W_Africa	1	E_Africa	3.52451280950221e-142	1	9985	High	ok	""
+P2_subregion_within_africa	subregion	10000	FAVV_7	E_Africa	1	W_Africa	6.18886750342356e-126	1	9992	High	ok	""
+P2_subregion_within_africa	subregion	10000	FAVV_11	W_Africa	1	E_Africa	3.03520830868337e-43	1	9998	High	ok	""
+P2_subregion_within_africa	subregion	10000	FAVV_12	W_Africa	1	E_Africa	5.71248544341944e-69	1	9982	High	ok	""
+P2_subregion_within_africa	subregion	10000	FAVV_13	W_Africa	1	E_Africa	3.49661888144228e-84	1	9976	High	ok	""
+P2_subregion_within_africa	subregion	11001	Bd_2023_7	E_Africa	1	W_Africa	3.77670449926377e-41	1	10993	High	ok	""
+P2_subregion_within_africa	subregion	11001	Bd_2024_2	E_Africa	0.999999999980881	W_Africa	1.91189632844739e-11	0.999999999961762	10984	High	ok	""
+P2_subregion_within_africa	subregion	11001	FAVV_1	W_Africa	0.984124827168232	E_Africa	0.0158751728317681	0.968249654336464	10993	High	ok	""
+P2_subregion_within_africa	subregion	11001	FAVV_2	W_Africa	0.999999962646162	E_Africa	3.73538381807722e-08	0.999999925292324	10992	High	ok	""
+P2_subregion_within_africa	subregion	11001	FAVV_3	W_Africa	1	E_Africa	1.37222961495538e-86	1	10993	High	ok	""
+P2_subregion_within_africa	subregion	11001	FAVV_4	W_Africa	1	E_Africa	2.89847596012518e-104	1	10991	High	ok	""
+P2_subregion_within_africa	subregion	11001	FAVV_5	E_Africa	1	W_Africa	4.4613813380685e-88	1	10984	High	ok	""
+P2_subregion_within_africa	subregion	11001	FAVV_6	W_Africa	1	E_Africa	5.83404607311432e-150	1	10985	High	ok	""
+P2_subregion_within_africa	subregion	11001	FAVV_7	E_Africa	1	W_Africa	2.73936600986573e-130	1	10993	High	ok	""
+P2_subregion_within_africa	subregion	11001	FAVV_11	W_Africa	1	E_Africa	3.53924809972507e-46	1	10998	High	ok	""
+P2_subregion_within_africa	subregion	11001	FAVV_12	W_Africa	1	E_Africa	9.17787871688336e-70	1	10982	High	ok	""
+P2_subregion_within_africa	subregion	11001	FAVV_13	W_Africa	1	E_Africa	4.30375970744492e-84	1	10974	High	ok	""

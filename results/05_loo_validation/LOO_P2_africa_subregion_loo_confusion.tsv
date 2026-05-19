@@ -1,0 +1,6 @@
+panel_id	true_group	predicted_group	N	prop_within_true
+P2_subregion_within_africa	E_Africa	E_Africa	64	0.955223880597015
+P2_subregion_within_africa	C_Africa	C_Africa	5	1
+P2_subregion_within_africa	W_Africa	W_Africa	23	1
+P2_subregion_within_africa	E_Africa	W_Africa	3	0.0447761194029851
+P2_subregion_within_africa	S_Africa	S_Africa	10	1
