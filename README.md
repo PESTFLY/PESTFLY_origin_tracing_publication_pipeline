@@ -1,8 +1,10 @@
 # PESTFLY origin-tracing pipeline for *Bactrocera dorsalis* interceptions
 
-This repository contains the publication-ready workflow used for genome-wide nuclear SNP-based origin tracing of intercepted/trapped *Bactrocera dorsalis* samples in the Molecular Ecology Resources manuscript.
+This repository contains the publication-ready workflow used for genome-wide nuclear SNP-based origin tracing of intercepted/trapped *Bactrocera dorsalis* samples in ...
 
-The workflow stops at Step 07, which produces the authority-facing report. Reduced diagnostic SNP-panel development is **not** part of this public manuscript pipeline and is maintained as a separate internal extension.
+The workflow stops at Step 07, which produces the authority-facing report.
+
+The controlled alignment database required to rerun the full workflow from Step 00 is available through Zenodo under controlled access: https://doi.org/10.5281/zenodo.20283931.
 
 ## Pipeline overview
 
