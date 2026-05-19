@@ -1,0 +1,14 @@
+group	n_files	size_bytes	size_mb	size_gb	human_size
+results/00_fasta	11355	7538724406	7189.488	7.021	7.021 GB
+.git/objects	44	85613	0.082	0	83.6 KB
+.git/hooks	14	25827	0.025	0	25.2 KB
+.git/index	1	3644	0.003	0	3.6 KB
+.git/logs	4	860	0.001	0	860 B
+.git/config	1	379	0	0	379 B
+.git/info	1	240	0	0	240 B
+.git/refs	3	112	0	0	112 B
+.git/description	1	73	0	0	73 B
+.git/HEAD	1	21	0	0	21 B
+.git/COMMIT_EDITMSG	1	15	0	0	15 B
+.git/FETCH_HEAD	1	0	0	0	0 B
+data/000_input_data	1	0	0	0	0 B

@@ -1,0 +1,15 @@
+group	n_files	size_bytes	size_mb	size_gb	human_size
+tsv	79	329662499	314.391	0.307	314.39 MB
+rds	72	15815945	15.083	0.015	15.08 MB
+txt	28	300349	0.286	0	293.3 KB
+r	10	273779	0.261	0	267.4 KB
+xlsx	5	248362	0.237	0	242.5 KB
+gz	4	165515	0.158	0	161.6 KB
+pdf	7	124932	0.119	0	122 KB
+md	14	12661	0.012	0	12.4 KB
+rdata	1	2959	0.003	0	2.9 KB
+gitignore	1	2016	0.002	0	2 KB
+rhistory	1	1017	0.001	0	1017 B
+cff	1	427	0	0	427 B
+gitattributes	1	66	0	0	66 B
+gitkeep	9	0	0	0	0 B

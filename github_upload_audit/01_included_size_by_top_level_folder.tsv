@@ -1,0 +1,15 @@
+group	n_files	size_bytes	size_mb	size_gb	human_size
+results	199	346280448	330.239	0.322	330.24 MB
+steps	16	277239	0.264	0	270.7 KB
+data	3	33200	0.032	0	32.4 KB
+docs	5	4177	0.004	0	4.1 KB
+Rplots.pdf	1	3448	0.003	0	3.4 KB
+README.md	1	3191	0.003	0	3.1 KB
+.RData	1	2959	0.003	0	2.9 KB
+.gitignore	1	2016	0.002	0	2 KB
+.Rhistory	1	1017	0.001	0	1017 B
+check_github_upload_size.R	1	1003	0.001	0	1003 B
+run_public_pipeline.R	1	1003	0.001	0	1003 B
+CITATION.cff	1	427	0	0	427 B
+LICENSE_PLACEHOLDER.txt	1	333	0	0	333 B
+.gitattributes	1	66	0	0	66 B
